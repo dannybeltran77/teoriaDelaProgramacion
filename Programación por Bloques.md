@@ -1,3 +1,5 @@
+[🏠 Volver al inicio](index.md)
+
 # 🧩 Programación por Bloques 
 
 Consiste en realizar **algoritmos ordenados** utilizando **rompecabezas, colores, flechas**, y otros elementos visuales que facilitan la comprensión de la lógica de programación.  
