@@ -1,3 +1,5 @@
+[🏠 Volver al inicio](index.md)
+
 # 📚 Algoritmos, Pseudocódigo y Diagrama de Flujo
 
 
