@@ -20,7 +20,6 @@ Este bloque consiste en realizar una **programación** a través de **armar romp
 
 En la **programación por dirección**, se deben dar cierto tipo de **instrucciones direccionales**, con o sin condición, para **llegar a la meta**, guiando el flujo de manera precisa.
 
-## 🖥️ Implementación en Studio Versión
 
 <img width="3840" height="2160" alt="Captura de pantalla (74)" src="https://github.com/user-attachments/assets/4dbe49e9-9b5c-4d48-8586-51b591958242" />
 
@@ -54,6 +53,8 @@ Realizaremos una **regla de tres** para cada parámetro solicitado:
 
 **Datos de salida:**  
 - Resultados deseados: `km`, `cm` y `mm`
+
+## 🖥️ Implementación en Studio Versión
 
 <img width="3840" height="2160" alt="Captura de pantalla (80)" src="https://github.com/user-attachments/assets/e05e9724-74df-4201-89fa-61a5995dcdc6" />
 
