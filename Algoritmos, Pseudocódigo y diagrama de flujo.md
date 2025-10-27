@@ -63,7 +63,9 @@ El presupuesto anual debe ser repartido entre tres áreas del hospital:
 
 
 
-## ⚙️ Pseudocódigo
+## ⚙️ planteamiento
+
+Inicio
 
 // Varriables
 Definir sueldoG, sueldoT, sueldoP, pago Como Real;
@@ -104,5 +106,5 @@ Este enfoque facilita la comprensión visual del algoritmo y permite identificar
 
 📊 Ejemplo de Diagrama de Flujo:
 
-<img width="900" height="2039" alt="Captura de pantalla (76)" src="https://github.com/user-attachments/assets/fbe333c4-baf5-4185-9eee-af01f9202c12" />
+<img width="500" height="2039" alt="Captura de pantalla (76)" src="https://github.com/user-attachments/assets/fbe333c4-baf5-4185-9eee-af01f9202c12" />
 
