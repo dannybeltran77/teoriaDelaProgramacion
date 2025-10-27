@@ -1,3 +1,5 @@
+[🏠 Volver al inicio](index.md)
+
 # 📌 Principales dificultades en la aplicación de los contenidos
 
 Durante la práctica de programación, identifiqué algunas **dificultades comunes**:
