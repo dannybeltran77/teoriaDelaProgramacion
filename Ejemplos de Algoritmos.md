@@ -1,3 +1,5 @@
+[🏠 Volver al inicio](index.md)
+
 # 🔢 Ejemplos de Algoritmos con Estructuras Lineales/Secuenciales
 
 
