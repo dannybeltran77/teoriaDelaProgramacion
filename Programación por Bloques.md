@@ -20,6 +20,7 @@ Este bloque consiste en realizar una **programación** a través de **armar romp
 
 En la **programación por dirección**, se deben dar cierto tipo de **instrucciones direccionales**, con o sin condición, para **llegar a la meta**, guiando el flujo de manera precisa.
 
+## 🖥️ Implementación en Studio Versión
 
 <img width="3840" height="2160" alt="Captura de pantalla (74)" src="https://github.com/user-attachments/assets/4dbe49e9-9b5c-4d48-8586-51b591958242" />
 
@@ -90,5 +91,6 @@ Se realiza una **regla de tres** para cada área:
 **Datos de salida:**  
 - Cantidad de dinero que recibe cada área: `sueldoG`, `sueldoT` y `sueldoP`
 
+## 🖥️ Implementación en Studio Versión
 
 <img width="3840" height="2160" alt="Captura de pantalla (78)" src="https://github.com/user-attachments/assets/ab06f435-ff1c-4f5c-86e9-d92316a51264" />
