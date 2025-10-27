@@ -4,9 +4,18 @@
 
 </p>
 
+<p align="center">
+
 # 🎓 UNIVERSIDAD NACIONAL DE LOJA
 
+</p>
+
+<p align="center">
+
 ## Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables
+
+</p>
+
 
 ---
 
