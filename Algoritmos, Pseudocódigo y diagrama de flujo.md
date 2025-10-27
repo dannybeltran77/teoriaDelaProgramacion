@@ -12,7 +12,7 @@ Un **algoritmo** es una serie de pasos ordenados que siguen una secuencia lógic
 
 El **pseudocódigo** es la forma de representar un algoritmo en un lenguaje que pueda ser entendido por las personas; en este caso, el **español o lenguaje natural**.
 
----
+
 
 ## 🔄 Diagrama de Flujo
 
@@ -104,5 +104,5 @@ Este enfoque facilita la comprensión visual del algoritmo y permite identificar
 
 📊 Ejemplo de Diagrama de Flujo:
 
-<img width="1330" height="2039" alt="Captura de pantalla (76)" src="https://github.com/user-attachments/assets/fbe333c4-baf5-4185-9eee-af01f9202c12" />
+<img width="900" height="2039" alt="Captura de pantalla (76)" src="https://github.com/user-attachments/assets/fbe333c4-baf5-4185-9eee-af01f9202c12" />
 
