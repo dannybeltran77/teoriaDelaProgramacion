@@ -66,6 +66,8 @@ Proceso Calculo_Sueldo_Hospital
     Escribir "Pediatría: $", sueldoP
 FinProceso
 
+}
+
 
 
 # 📏 Diagrama de Flujo: Conversión de Metros
