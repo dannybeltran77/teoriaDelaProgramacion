@@ -31,7 +31,7 @@ Realizaremos una **regla de tres** para cada parámetro solicitado:
 **Datos de salida:**  
 - Resultados deseados: `km`, `cm` y `mm`
 
-## 🖥️ Implementación en Studio Versión
+## 🖥️ Implementación en Visual Studio
 
 <img width="3840" height="2160" alt="Captura de pantalla (80)" src="https://github.com/user-attachments/assets/e05e9724-74df-4201-89fa-61a5995dcdc6" />
 
@@ -69,7 +69,7 @@ Se realiza una **regla de tres** para cada área:
 **Datos de salida:**  
 - Cantidad de dinero que recibe cada área: `sueldoG`, `sueldoT` y `sueldoP`
 
-## 🖥️ Implementación en Studio Versión
+## 🖥️ Implementación en Visual Studio
 
 <img width="3840" height="2160" alt="Captura de pantalla (78)" src="https://github.com/user-attachments/assets/ab06f435-ff1c-4f5c-86e9-d92316a51264" />
 
