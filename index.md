@@ -1,14 +1,12 @@
-# 🗂️ Índice de Contenidos
+## 🗂 Índice de Contenidos
 
-Bienvenido al repositorio. A continuación encontrarás los enlaces a cada uno de los documentos de la unidad:
-
-1. [📄 Carátula](Carátula.md)
-4. [📚 Algoritmos, Pseudocódigo y Diagrama de Flujo](Algoritmos,%20Pseudocódigo%20y%20diagrama%20de%20flujo.md)
-5. [🧩 Programación por Bloques](Programación%20por%20Bloques.md)
-3. [🔢 Ejemplos de Algoritmos](Ejemplos%20de%20Algoritmos.md)
-6. [💡 Principales dificultades](Principales%20dificultades.md)
-8. [📝 Reflexión crítica](Reflexión%20crítica.md)
-9. [📂 Tareas Entregadas](./07Tareas%20entregadas.md)
-
-  
+1. 📄 [01 Carátula](./01%20Car%C3%A1tula.md)  
+2. 📊 [02 Algoritmos, Pseudocódigo y Diagrama de Flujo](./02%20Algoritmos,%20Pseudoc%C3%B3digo%20y%20diagrama%20de%20flujo.md)  
+3. 💻 [03 Programación en PSeInt](./03%20Programacion%20en%20Pseint.md)  
+4. 🧩 [04 Programación por Bloques](./04%20Programaci%C3%B3n%20por%20Bloques.md)  
+5. 📝 [05 Ejemplos de Algoritmos](./05%20Ejemplos%20de%20Algoritmos.md)  
+6. 🖥️ [06 Programa en C con Estructuras Secuenciales](./06%20Programa%20en%20C%20con%20Estructuras%20Secuenciales.md)  
+7. ⚠️ [07 Principales dificultades](./07%20Principales%20dificultades.md)  
+8. 💡 [08 Reflexión crítica](./08%20Reflexi%C3%B3n%20cr%C3%ADtica.md)  
+9. 📂 [09 Tareas entregadas](./09%20Tareas%20entregadas.md)  
 
