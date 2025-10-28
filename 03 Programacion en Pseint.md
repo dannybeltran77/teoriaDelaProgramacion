@@ -66,3 +66,16 @@ Proceso Calculo_Sueldo_Hospital
     Escribir "Pediatría: $", sueldoP
 FinProceso
 
+
+
+# 📏 Diagrama de Flujo: Conversión de Metros
+
+```mermaid
+flowchart TD
+    A[Inicio] --> B[Ingresar valor en metros]
+    B --> C[Calcular kilómetros: k = metros / 1000]
+    C --> D[Calcular centímetros: cm = metros * 100]
+    D --> E[Calcular milímetros: mm = metros * 1000]
+    E --> F[Mostrar resultados: k, cm, mm]
+    F --> G[Fin]
+
