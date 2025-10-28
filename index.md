@@ -8,6 +8,6 @@ Bienvenido al repositorio. A continuación encontrarás los enlaces a cada uno d
 3. [🔢 Ejemplos de Algoritmos](Ejemplos%20de%20Algoritmos.md)
 6. [💡 Principales dificultades](Principales%20dificultades.md)
 8. [📝 Reflexión crítica](Reflexión%20crítica.md)
-9. [📂 07Tareas entregadas](Tareas%20entregadas.md)
+9. [📂07Tareas entregadas](Tareas%20entregadas.md)
   
 
