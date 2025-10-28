@@ -11,27 +11,24 @@ Este programa en lenguaje **C** realiza conversiones de una cantidad en **metros
 ```c
 #include <stdio.h>
 
-int main() {
+
+int main () {
+
     float numero, k, cm, mm;
-
-    // Entrada de datos
-    printf("Ingrese el valor en metros: ");
+    // Datos de entrada
+    printf("Ingrese el valor: \n");
     scanf("%f", &numero);
-
-    // Proceso
-    k = numero / 1000;     // Conversión a kilómetros
-    cm = numero * 100;     // Conversión a centímetros
-    mm = numero * 1000;    // Conversión a milímetros
-
-    // Salida
-    printf("\nLos valores encontrados son:\n");
-    printf("Kilómetros: %.3f\n", k);
-    printf("Centímetros: %.2f\n", cm);
-    printf("Milímetros: %.2f\n", mm);
+    getchar();
+// Proceso
+    k = (1 * numero)/ 1000;
+    cm = (numero * 100)/ 1;
+    mm = (numero * 1000)/1;
+//Salida
+    printf("Los valores encontrados son: %f,%3.f,%f\n", k,cm,mm);
 
     return 0;
-}
 
+}
 
 
 # 💼 Cálculo de Sueldos por Área de Trabajo
