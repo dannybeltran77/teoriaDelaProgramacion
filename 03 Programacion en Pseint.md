@@ -66,7 +66,7 @@ Proceso Calculo_Sueldo_Hospital
     Escribir "Pediatría: $", sueldoP
 FinProceso
 
-}
+``` 
 
 
 
