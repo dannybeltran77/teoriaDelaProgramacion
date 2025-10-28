@@ -9,3 +9,5 @@
 [🔧 Instalación de lenguajes de Programación](https://drive.google.com/file/d/1hQA6u0-vT94_zXMoFeCEQho5G_eTK6J7/view)
 
 [🚀Primer Acercamiento a la Construcción de Algoritmos con Estructuras Secuenciales en Pseudocódigo](https://drive.google.com/file/d/1_iOZ0fC9wONeXV0hQotlIG3s0RqLI-3H/view?usp=sharing)
+
+[Construcción de un programa en C con estructuras secuenciales.](https://drive.google.com/file/d/1UXZdZSNAyY_Bfmjt4TtmDWyBV2flT70X/view?usp=sharing)
