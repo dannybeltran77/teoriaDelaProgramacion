@@ -70,12 +70,25 @@ FinProceso
 
 # 📏 Diagrama de Flujo: Conversión de Metros
 
+
+Explicación de las figuras:  
+- `((...))` → óvalo (Inicio/Fin)  
+- `/.../` → paralelogramo (Entrada/Salida)  
+- `[ ... ]` → rectángulo (Proceso)  
+
+---
+
+## **2️⃣ Cálculo de sueldos por área del hospital**
+
+```markdown
+# 💼 Diagrama de Flujo: Sueldos por Área del Hospital
+
 ```mermaid
 flowchart TD
-    A[Inicio] --> B[Ingresar valor en metros]
-    B --> C[Calcular kilómetros: k = metros / 1000]
-    C --> D[Calcular centímetros: cm = metros * 100]
-    D --> E[Calcular milímetros: mm = metros * 1000]
-    E --> F[Mostrar resultados: k, cm, mm]
-    F --> G[Fin]
+    A((Inicio)) --> B[/Ingresar presupuesto total/]
+    B --> C[Calcular sueldo Gerencia: 40%]
+    C --> D[Calcular sueldo Terapia: 30%]
+    D --> E[Calcular sueldo Pediatría: 30%]
+    E --> F[/Mostrar resultados: Gerencia, Terapia, Pediatría/]
+    F --> G((Fin))
 
