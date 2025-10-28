@@ -71,24 +71,13 @@ FinProceso
 # 📏 Diagrama de Flujo: Conversión de Metros
 
 
-Explicación de las figuras:  
-- `((...))` → óvalo (Inicio/Fin)  
-- `/.../` → paralelogramo (Entrada/Salida)  
-- `[ ... ]` → rectángulo (Proceso)  
+<img width="3840" height="2160" alt="Captura de pantalla (94)" src="https://github.com/user-attachments/assets/737d8a23-2fc9-4737-a168-90e41683228b" />
 
----
 
-## **2️⃣ Cálculo de sueldos por área del hospital**
+# 💰 Diagrama de Flujo: Presupuesto
 
-```markdown
-# 💼 Diagrama de Flujo: Sueldos por Área del Hospital
+<img width="3840" height="2160" alt="Captura de pantalla (95)" src="https://github.com/user-attachments/assets/19369df3-0ba1-44c1-910f-f0ab75a882cd" />
 
-```mermaid
-flowchart TD
-    A((Inicio)) --> B[/Ingresar presupuesto total/]
-    B --> C[Calcular sueldo Gerencia: 40%]
-    C --> D[Calcular sueldo Terapia: 30%]
-    D --> E[Calcular sueldo Pediatría: 30%]
-    E --> F[/Mostrar resultados: Gerencia, Terapia, Pediatría/]
-    F --> G((Fin))
+
+
 
