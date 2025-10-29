@@ -19,9 +19,9 @@ Proceso Conversion_Metros
     Leer numero
 
     // Proceso
-    k <- numero / 1000       // Conversión a kilómetros
-    cm <- numero * 100       // Conversión a centímetros
-    mm <- numero * 1000      // Conversión a milímetros
+    k = (1 * numero) / 1000;       
+    cm = (numero * 100)/1;      
+    mm = (numero * 1000)/1;     
 
     // Salida
     Escribir ""
