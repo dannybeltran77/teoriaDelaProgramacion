@@ -82,7 +82,8 @@ return 0;
 
 
 }
- ´´´
+
+```
 
 <p align="center">
   <a href="05 Ejemplos de Algoritmos.md">⬅️ Anterior</a> |
