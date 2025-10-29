@@ -40,8 +40,6 @@
 
 ---
 
-
 <p align="center">
-  <a href="index.md">🏠 Índice</a> |
-  <a href='01.1 " UNIDAD 1"'>➡️ Siguiente</a>
+  <a href="02 Algoritmos, Pseudocódigo y diagrama de flujo.md">➡️ Ir a Algoritmos, Pseudocódigo y Diagrama de Flujo</a>
 </p>
