@@ -83,5 +83,9 @@ FinProceso
 <img width="3840" height="2160" alt="Captura de pantalla (95)" src="https://github.com/user-attachments/assets/19369df3-0ba1-44c1-910f-f0ab75a882cd" />
 
 
-
+<p align="center">
+  <a href="02 Algoritmos, Pseudocódigo y diagrama de flujo.md">⬅️ Anterior</a> |
+  <a href="index.md">🏠 Índice</a> |
+  <a href="04 Programación por Bloques.md">➡️ Siguiente</a>
+</p>
 
