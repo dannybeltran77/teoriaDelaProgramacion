@@ -20,8 +20,8 @@ Durante la elaboración de este trabajo, se utilizó **ChatGPT**, un modelo de i
 > sin que la inteligencia artificial sustituya el trabajo intelectual del autor.
 
 
+
 <p align="center">
-  <a href="4 CONCLUSIONES.md">⬅️ Anterior</a> |
-  <a href="index.md">🏠 Índice</a> |
-  <a href="09 Tareas entregadas.md">➡️ Siguiente</a>
+  <a href="4 CONCLUSIONES.md">⬅️ Regresar</a> |
+  <a href="index.md">🏠 Índice</a>
 </p>
