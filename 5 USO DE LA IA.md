@@ -22,6 +22,6 @@ Durante la elaboración de este trabajo, se utilizó **ChatGPT**, un modelo de i
 
 
 <p align="center">
-  <a href="4 CONCLUSIONES.md">⬅️ Regresar</a> |
+  <a href="4%20CONCLUSIONES.md">⬅️ Regresar</a> |
   <a href="index.md">🏠 Índice</a>
 </p>
