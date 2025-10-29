@@ -6,3 +6,9 @@ Asimismo, considero que el estudiante de programación debe fortalecer continuam
 
 Finalmente, me llevo las palabras de la docente: hacer las cosas con excelencia es esencial para ser un gran profesional y generar un impacto positivo en el ámbito laboral y social.
 
+
+<p align="center">
+  <a href="09 Tareas entregadas.md">⬅️ Anterior</a> |
+  <a href="index.md">🏠 Índice</a> |
+  <a href="5 USO DE LA IA.md">➡️ Siguiente</a>
+</p>
