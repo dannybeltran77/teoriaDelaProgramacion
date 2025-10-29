@@ -18,5 +18,5 @@
 <p align="center">
   <a href="08 Reflexión crítica.md">⬅️ Anterior</a> |
   <a href="index.md">🏠 Índice</a> |
-  <a href='4 " CONCLUSIONES " '>➡️ Siguiente</a>
+  <a href="4_CONCLUSIONES.md">➡️ Siguiente</a>
 </p>
