@@ -41,5 +41,6 @@
 ---
 
 <p align="center">
-  <a href="02 Algoritmos, Pseudocódigo y diagrama de flujo.md">➡️ Ir a Algoritmos, Pseudocódigo y Diagrama de Flujo</a>
+  <a href="02 Algoritmos, Pseudocódigo y diagrama de flujo.md">➡️ Ir a Siguiente</a>
+  <a href="index.md">🏠 Índice</a>
 </p>
