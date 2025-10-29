@@ -52,9 +52,8 @@ Como dice el dicho, de los errores se aprende. Estos errores lógicos y sintáct
 De igual manera, me llevo las sabias palabras de mi docente de programación: hacer las cosas con excelencia para ser un gran profesional en la vida.
 
 
-
 <p align="center">
-  <a href="07 Principales dificultades.md">⬅️ Anterior</a> |
+  <a href='4 " CONCLUSIONES " '>⬅️ Anterior</a> |
   <a href="index.md">🏠 Índice</a> |
-  <a href='4 " CONCLUSIONES "'>➡️ Siguiente</a>
+  <a href='09 Tareas entregadas.md'>➡️ Siguiente</a>
 </p>
