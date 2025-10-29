@@ -12,3 +12,10 @@ Durante la práctica de programación, identifiqué algunas **dificultades comun
 
 - **Errores de sintaxis en palabras reservadas:**  
   Al principio cometía errores de gramática dentro del código, escribiendo mal las palabras reservadas del lenguaje de programación.
+
+
+<p align="center">
+  <a href="06 Programa en C con Estructuras Secuenciales.md">⬅️ Anterior</a> |
+  <a href="index.md">🏠 Índice</a> |
+  <a href="08 Reflexión crítica.md">➡️ Siguiente</a>
+</p>
