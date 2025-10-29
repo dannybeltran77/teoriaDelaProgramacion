@@ -17,6 +17,7 @@
 ## UNIDAD 2
 ## UNIDAD 3
 ## CONCLUSIONES
+[Ver conclusiones](https://github.com/dannybeltran77/teoriaDelaProgramacion/blob/main/4%20%20%20CONCLUSIONES.md)
 ## USO DE LA IA
 
 
