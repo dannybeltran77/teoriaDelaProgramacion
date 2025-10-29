@@ -110,3 +110,9 @@ Este enfoque facilita la comprensión visual del algoritmo y permite identificar
 
 <img width="500" height="2039" alt="Captura de pantalla (76)" src="https://github.com/user-attachments/assets/fbe333c4-baf5-4185-9eee-af01f9202c12" />
 
+
+<p align="center">
+  <a href="01 Carátula.md">⬅️ Anterior</a> |
+  <a href="index.md">🏠 Índice</a> |
+  <a href="03 Programacion en Pseint.md">➡️ Siguiente</a>
+</p>
