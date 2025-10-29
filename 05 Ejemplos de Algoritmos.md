@@ -73,3 +73,9 @@ Se realiza una **regla de tres** para cada área:
 
 <img width="3840" height="2160" alt="Captura de pantalla (78)" src="https://github.com/user-attachments/assets/ab06f435-ff1c-4f5c-86e9-d92316a51264" />
 
+
+<p align="center">
+  <a href="04 Programación por Bloques.md">⬅️ Anterior</a> |
+  <a href="index.md">🏠 Índice</a> |
+  <a href="06 Programa en C con Estructuras Secuenciales.md">➡️ Siguiente</a>
+</p>
