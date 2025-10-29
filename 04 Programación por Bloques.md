@@ -26,3 +26,9 @@ En la **programación por dirección**, se deben dar cierto tipo de **instruccio
  
 <img width="3840" height="2160" alt="Captura de pantalla (74)" src="https://github.com/user-attachments/assets/4dbe49e9-9b5c-4d48-8586-51b591958242" />
 
+
+<p align="center">
+  <a href="03 Programacion en Pseint.md">⬅️ Anterior</a> |
+  <a href="index.md">🏠 Índice</a> |
+  <a href="05 Ejemplos de Algoritmos.md">➡️ Siguiente</a>
+</p>
