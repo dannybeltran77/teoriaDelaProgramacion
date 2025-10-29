@@ -50,3 +50,11 @@ El no colocar una coma, punto y coma o incluso poner un espacio donde no se debe
 En la siguiente fase nos introdujimos ya en el mundo de la programación en C/C++. Cuando comenzamos a programar en este lenguaje de programación, tuve algunos inconvenientes, como los compiladores que ocasionaban bugs en mis programas. La solución a este error fue colocar una línea de código llamada `getchar();` para liberar la memoria y que mi programa se pueda ejecutar sin problemas. Ahora esto lo hago siempre al crear un programa, como buena práctica para evitar posibles bugs.  
 Como dice el dicho, de los errores se aprende. Estos errores lógicos y sintácticos me han hecho comprender la importancia de llevar una ortografía y sintaxis adecuadas que debe tener un código para ejecutarse de manera correcta. Espero, en algún futuro, con mi formación académica y profesional, poder contribuir de forma eficiente en el campo computacional de manera eficaz, ayudando al desarrollo del país y del mundo.  
 De igual manera, me llevo las sabias palabras de mi docente de programación: hacer las cosas con excelencia para ser un gran profesional en la vida.
+
+
+
+<p align="center">
+  <a href="07 Principales dificultades.md">⬅️ Anterior</a> |
+  <a href="index.md">🏠 Índice</a> |
+  <a href='4 " CONCLUSIONES "'>➡️ Siguiente</a>
+</p>
