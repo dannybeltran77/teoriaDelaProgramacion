@@ -1,6 +1,6 @@
 ### 🗂 Índice de Contenidos
 
-1. 📄 [01 Carátula](./01%20Car%C3%A1tula.md)
+1. 📄 [Carátula](./01%20Car%C3%A1tula.md)
    
    
 ## UNIDAD 1
