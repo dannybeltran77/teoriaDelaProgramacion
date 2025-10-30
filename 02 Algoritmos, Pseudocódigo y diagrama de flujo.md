@@ -188,10 +188,14 @@ El presupuesto anual debe ser repartido entre tres áreas del hospital:
 - `T = 30%`  
 - `P = 30%`
 
+## Primer ejercicio implementado en Pseint
+
+La imagen muestra el diseño del algoritmo número dos representado en pseudocódigo utilizando PSeInt
+
+<img width="3840" height="2160" alt="Captura de pantalla (102)" src="https://github.com/user-attachments/assets/a0c85479-91e1-42f1-98e8-97679b10a5ac" />
 
 
-## ⚙️ planteamiento
-
+## ⚙️ Pseudocódigo segundo ejercicio
 
 
 | 🧩 **Etapa**                    | 💻 **Pseudocódigo (PSeInt)**                                                                                                                                    |
@@ -229,11 +233,6 @@ La imagen muestra el diseño del algoritmo representado en pseudocódigo utiliza
 
 <img width="3183" height="1474" alt="Captura de pantalla (75)" src="https://github.com/user-attachments/assets/8827687c-8f97-42d5-827a-25cf3d1a89de" />
 
-## Segundo ejercicio implementado en Pseint
-
-La imagen muestra el diseño del algoritmo número dos representado en pseudocódigo utilizando PSeInt
-
-<img width="3840" height="2160" alt="Captura de pantalla (102)" src="https://github.com/user-attachments/assets/a0c85479-91e1-42f1-98e8-97679b10a5ac" />
 
 
 ## 🔄 Diagrama de Flujo
