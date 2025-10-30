@@ -31,6 +31,50 @@ Realizaremos una **regla de tres** para cada parámetro solicitado:
 **Datos de salida:**  
 - Resultados deseados: `km`, `cm` y `mm`
 
+# 🧩 Etapas del Proceso de Programación
+
+## ⚙️ Compilación
+La **compilación** consiste en traducir el *código fuente* a un lenguaje que la computadora pueda comprender.  
+Durante este proceso, el compilador analiza el programa, identifica posibles errores de sintaxis y genera un archivo ejecutable o interpretable.
+
+---
+
+## ▶️ Ejecución
+La **ejecución** es la fase en la que el programa se pone en marcha.  
+En este punto, la computadora **interpreta y ejecuta las instrucciones** del programa, mostrando los resultados esperados o realizando las acciones establecidas.
+
+---
+
+> 💡 **Nota:** Ambas etapas son esenciales en el desarrollo de software, ya que garantizan que el código sea correcto y funcional antes de su uso final.
+
+
+## 🧠 Compilación del Código Fuente
+
+Ahora vamos a **compilar nuestro código fuente**.  
+Para realizar la compilación, debemos **abrir la terminal** y escribir el comando correspondiente según el nombre del archivo.
+
+En este caso, la línea utilizada para compilar es la siguiente:
+
+```bash
+gcc .\convertirMetros.c -o convertirMetros
+
+
+<img width="900" height="2160" alt="Captura de pantalla (98)" src="https://github.com/user-attachments/assets/7edc9914-ba43-4203-8f98-6eeff9f299f1" />
+
+
+
+## ▶️ Ejecución del Programa
+
+Para **ejecutar el programa**, escribimos el siguiente comando en la terminal:
+
+```bash
+.\convertirMetros.exe
+
+
+<img width="900" height="2160" alt="Captura de pantalla (99)" src="https://github.com/user-attachments/assets/46686910-54c8-4e57-ada7-653ca586b193" />
+
+
+
 ## 🖥️ Implementación en Visual Studio
 
 <img width="3840" height="2160" alt="Captura de pantalla (80)" src="https://github.com/user-attachments/assets/e05e9724-74df-4201-89fa-61a5995dcdc6" />
@@ -70,6 +114,29 @@ Se realiza una **regla de tres** para cada área:
 - Cantidad de dinero que recibe cada área: `sueldoG`, `sueldoT` y `sueldoP`
 
 ## 🖥️ Implementación en Visual Studio
+
+## 🧠 Compilación del Código Fuente
+
+Ahora vamos a **compilar nuestro código fuente**.  
+Para realizar la compilación, debemos **abrir la terminal** y escribir el comando correspondiente según el nombre del archivo.
+
+En este caso, la línea utilizada para compilar es la siguiente:
+
+```bash
+gcc .\presupuesto.c -o presupuesto
+
+<img width="900" height="2160" alt="Captura de pantalla (100)" src="https://github.com/user-attachments/assets/939cef7c-de4c-41c5-a5a3-0dd79a85a295" />
+
+
+
+## ▶️ Ejecución del Programa
+
+Para **ejecutar el programa**, escribimos el siguiente comando en la terminal:
+
+```bash
+.\presupuesto.exe
+
+<img width="900" height="2160" alt="Captura de pantalla (101)" src="https://github.com/user-attachments/assets/af547e46-735e-4f18-aaea-19a60adb0046" />
 
 <img width="3840" height="2160" alt="Captura de pantalla (78)" src="https://github.com/user-attachments/assets/ab06f435-ff1c-4f5c-86e9-d92316a51264" />
 
