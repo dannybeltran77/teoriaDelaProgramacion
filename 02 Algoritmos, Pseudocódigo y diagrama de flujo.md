@@ -14,7 +14,7 @@ Un **algoritmo** es una serie de pasos ordenados que siguen una secuencia lógic
 Todo algoritmo tiene un principio y un final.
 Es un conjunto de pasos ordenados que permiten resolver un problema o realizar una tarea específica.
 
-
+---
 
 🧩 Pasos para resolver un problema
 
@@ -58,6 +58,7 @@ Funcione correctamente ⚙️
 
 Cumpla con los resultados esperados ✅
 
+---
 
 🧮 Clasificación de los algoritmos
 
@@ -67,6 +68,7 @@ Tipo	Descripción
 
 🔢 Cuantitativos	Utilizan fórmulas o procesos matemáticos.
 
+---
 
 | Tipo de dato    | Representación | Descripción                                 |
 | --------------- | -------------- | ------------------------------------------- |
@@ -101,6 +103,7 @@ Tipo	Descripción
 | `--`        | Decrementa en 1 | `x--` o `--x` | `x = x - 1` |
 
 
+---
 
 🏷️ Identificadores
 
@@ -122,13 +125,13 @@ Utilizar el formato lowerCamelCase para nombres (por ejemplo: sumaTotal, edadUsu
 
 Usar el operador de asignación (=) para definir valores.
 
-
+---
 
 ## 📝 Pseudocódigo
 
 El **pseudocódigo** es la forma de representar un algoritmo en un lenguaje que pueda ser entendido por las personas; en este caso, el **español o lenguaje natural**.
 
-
+---
 
 
 ## 🏥 Problema Planteado en Pseudocódigo
@@ -150,12 +153,13 @@ El presupuesto anual del hospital se reparte conforme a la siguiente tabla:
 **🎯 Objetivo:**  
 Obtener la cantidad de dinero que recibirá cada área para cualquier monto presupuestal.
 
-
+---
 
 # 🧮 Análisis del Problema
 
 Debemos determinar la cantidad de dinero que debe recibir cada área al obtener cierto monto de dinero.  
 Para ello, establecemos lo siguiente:
+
 
 
 
@@ -186,6 +190,7 @@ El presupuesto anual debe ser repartido entre tres áreas del hospital:
 | **⚙️ Proceso (Cálculos)**       | `pseudocode // Proceso  sueldoG = (pago * 40) / 100  sueldoT = (pago * 30) / 100  sueldoP = (pago * 30) / 100 `                                                 |
 | **📤 Salida de Datos**          | `pseudocode // Salida  Escribir "El sueldo que debe recibir cada área es de: ", sueldoG, " Ginecología, ", sueldoT, " Traumatología, ", sueldoP, " Pediatría" ` |
 | **🏁 Fin del Algoritmo**        | `pseudocode FinAlgoritmo `                                                                                                                                      |
+---
 
 📸 Pseudocódigo en Pseint
 
