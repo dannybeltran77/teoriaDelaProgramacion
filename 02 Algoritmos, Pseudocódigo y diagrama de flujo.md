@@ -74,6 +74,31 @@ Tipo	Descripción
 | ⚖️ **Lógico**   | `boolean`      | Verdadero o falso (`true` / `false`)        |
 | 🔡 **Carácter** | `char`         | Un solo carácter, por ejemplo `'A'` o `'9'` |
 
+## ⚙️ Operadores en Programación
+
+| 🧮 Operador | Significado                     | Ejemplo  | Resultado |
+| ----------- | ------------------------------- | -------- | --------- |
+| `+`         | Suma                            | `5 + 3`  | `8`       |
+| `-`         | Resta                           | `10 - 4` | `6`       |
+| `*`         | Multiplicación                  | `6 * 2`  | `12`      |
+| `/`         | División                        | `8 / 2`  | `4`       |
+| `%`         | Módulo (residuo)                | `7 % 3`  | `1`       |
+| `**`        | Potencia (en algunos lenguajes) | `2 ** 3` | `8`       |
+
+
+| 🧠 Operador | Significado    | Ejemplo              | Resultado     |          |   |          |        |
+| ----------- | -------------- | -------------------- | ------------- | -------- | - | -------- | ------ |
+| `&&`        | AND (y lógico) | `(5 > 3) && (8 > 6)` | `true`        |          |   |          |        |
+| `           |                | `                    | OR (o lógico) | `(5 < 3) |   | (8 > 6)` | `true` |
+| `!`         | NOT (negación) | `!(5 == 3)`          | `true`        |          |   |          |        |
+
+
+
+| ⚙️ Operador | Significado     | Ejemplo       | Resultado   |
+| ----------- | --------------- | ------------- | ----------- |
+| `++`        | Incrementa en 1 | `x++` o `++x` | `x = x + 1` |
+| `--`        | Decrementa en 1 | `x--` o `--x` | `x = x - 1` |
+
 
 
 🏷️ Identificadores
