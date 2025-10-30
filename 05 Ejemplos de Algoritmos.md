@@ -48,6 +48,14 @@ En este punto, la computadora **interpreta y ejecuta las instrucciones** del pro
 > 💡 **Nota:** Ambas etapas son esenciales en el desarrollo de software, ya que garantizan que el código sea correcto y funcional antes de su uso final.
 
 
+## 🖥️ Implementación en Visual Studio
+
+## 🖥️ Código Fuente del Algoritmo
+
+En la siguiente imagen se muestra cómo el **algoritmo ha sido traducido a código fuente** utilizando un **lenguaje de programación**.
+
+<img width="3840" height="2160" alt="Captura de pantalla (80)" src="https://github.com/user-attachments/assets/e05e9724-74df-4201-89fa-61a5995dcdc6" />
+
 ## 🧠 Compilación del Código Fuente
 
 Ahora vamos a **compilar nuestro código fuente**.  
@@ -72,12 +80,6 @@ Para **ejecutar el programa**, escribimos el siguiente comando en la terminal:
 ```
 
 <img width="900" height="2160" alt="Captura de pantalla (99)" src="https://github.com/user-attachments/assets/46686910-54c8-4e57-ada7-653ca586b193" />
-
-
-
-## 🖥️ Implementación en Visual Studio
-
-<img width="3840" height="2160" alt="Captura de pantalla (80)" src="https://github.com/user-attachments/assets/e05e9724-74df-4201-89fa-61a5995dcdc6" />
 
 
 
@@ -115,6 +117,14 @@ Se realiza una **regla de tres** para cada área:
 
 ## 🖥️ Implementación en Visual Studio
 
+<img width="3840" height="2160" alt="Captura de pantalla (78)" src="https://github.com/user-attachments/assets/ab06f435-ff1c-4f5c-86e9-d92316a51264" />
+
+## 🖥️ Código Fuente del Algoritmo
+
+En la siguiente imagen se muestra cómo el **algoritmo ha sido traducido a código fuente** utilizando un **lenguaje de programación**.
+
+
+
 ## 🧠 Compilación del Código Fuente
 
 Ahora vamos a **compilar nuestro código fuente**.  
@@ -138,7 +148,6 @@ Para **ejecutar el programa**, escribimos el siguiente comando en la terminal:
 ```
 <img width="900" height="2160" alt="Captura de pantalla (101)" src="https://github.com/user-attachments/assets/af547e46-735e-4f18-aaea-19a60adb0046" />
 
-<img width="3840" height="2160" alt="Captura de pantalla (78)" src="https://github.com/user-attachments/assets/ab06f435-ff1c-4f5c-86e9-d92316a51264" />
 
 
 <p align="center">
