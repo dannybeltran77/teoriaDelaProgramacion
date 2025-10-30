@@ -134,9 +134,9 @@ En este caso, la línea utilizada para compilar es la siguiente:
 
 ```bash
 gcc .\presupuesto.c -o presupuesto
-
-<img width="900" height="2160" alt="Captura de pantalla (100)" src="https://github.com/user-attachments/assets/939cef7c-de4c-41c5-a5a3-0dd79a85a295" />
 ```
+<img width="900" height="2160" alt="Captura de pantalla (100)" src="https://github.com/user-attachments/assets/939cef7c-de4c-41c5-a5a3-0dd79a85a295" />
+
 
 
 ## ▶️ Ejecución del Programa
