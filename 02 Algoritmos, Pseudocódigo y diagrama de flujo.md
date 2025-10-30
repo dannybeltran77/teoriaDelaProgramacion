@@ -16,57 +16,53 @@ Es un conjunto de pasos ordenados que permiten resolver un problema o realizar u
 
 ---
 
-🧩 Pasos para resolver un problema
-
-🔍 1. Análisis
-
-
-Consiste en estudiar bien el problema, identificando:
-
-🧾 Entradas: Datos o información que el usuario ingresa al programa.
-
-⚙️ Procesos: Operaciones o fórmulas necesarias para llegar a la solución.
-
-📤 Salidas: Resultados obtenidos de la solución del problema.
-
-
-
-🧱 2. Diseño del algoritmo
-
-Consiste en estructurar el algoritmo mediante:
-
-✍️ Pseudocódigo
-
-🔄 Diagrama de flujo
-
-Estas herramientas permiten visualizar la lógica antes de programar.
-
-
-
-💻 3. Codificación
-
-Proceso de traducir los algoritmos a un lenguaje de programación, convirtiéndolos en un programa ejecutable.
-
-
-🧪 4. Pruebas
-
-Etapa donde se verifica que el programa:
-
-No tenga errores 🐞
-
-Funcione correctamente ⚙️
-
-Cumpla con los resultados esperados ✅
+# 🧩 Pasos para resolver un problema
 
 ---
 
-🧮 Clasificación de los algoritmos
+## 🔍 1. Análisis
 
-Tipo	Descripción
+Consiste en estudiar bien el problema, identificando:
 
-🗣️ Cualitativos	Se expresan con frases o palabras.
+- 🧾 **Entradas:** Datos o información que el usuario ingresa al programa.
+- ⚙️ **Procesos:** Operaciones o fórmulas necesarias para llegar a la solución.
+- 📤 **Salidas:** Resultados obtenidos de la solución del problema.
 
-🔢 Cuantitativos	Utilizan fórmulas o procesos matemáticos.
+---
+
+## 🧱 2. Diseño del algoritmo
+
+Consiste en estructurar el algoritmo mediante:
+
+- ✍️ **Pseudocódigo**
+- 🔄 **Diagrama de flujo**
+
+Estas herramientas permiten visualizar la lógica antes de programar.
+
+---
+
+## 💻 3. Codificación
+
+Proceso de traducir los algoritmos a un lenguaje de programación, convirtiéndolos en un programa ejecutable.
+
+---
+
+## 🧪 4. Pruebas
+
+Etapa donde se verifica que el programa:
+
+- No tenga errores 🐞
+- Funcione correctamente ⚙️
+- Cumpla con los resultados esperados
+✅
+
+---
+# 🧮 Clasificación de los algoritmos
+
+| Tipo | Descripción |
+|------|------------|
+| 🗣️ **Cualitativos** | Se expresan con frases o palabras. |
+| 🔢 **Cuantitativos** | Utilizan fórmulas o procesos matemáticos. |
 
 ---
 
@@ -105,25 +101,24 @@ Tipo	Descripción
 
 ---
 
-🏷️ Identificadores
+# 🏷️ Identificadores
 
-Los identificadores son nombres que se usan para representar variables o constantes dentro de un programa.
+Los identificadores son nombres que se usan para representar **variables** o **constantes** dentro de un programa.
 
+---
 
-🔸 Tipos
+## 🔸 Tipos
 
-Variable: Su valor puede cambiar durante la ejecución del programa.
+- **Variable:** Su valor puede cambiar durante la ejecución del programa.  
+- **Constante:** Su valor permanece fijo durante toda la ejecución.
 
-Constante: Su valor permanece fijo durante toda la ejecución.
+---
 
+## ✍️ Recomendaciones
 
-✍️ Recomendaciones
-
-Utilizar el formato lowerCamelCase para nombres (por ejemplo: sumaTotal, edadUsuario).
-
-🚫 Evitar espacios, acentos, y caracteres especiales.
-
-Usar el operador de asignación (=) para definir valores.
+- Utilizar el formato **lowerCamelCase** para nombres (por ejemplo: `sumaTotal`, `edadUsuario`).  
+- 🚫 Evitar espacios, acentos y caracteres especiales.  
+- Usar el operador de asignación (`=`) para definir valores.
 
 ---
 
@@ -178,8 +173,6 @@ Se realiza una **regla de tres** para cada área:
 
 Debemos determinar la cantidad de dinero que debe recibir cada área al obtener cierto monto de dinero.  
 Para ello, establecemos lo siguiente:
-
-
 
 
 ## 📊 Datos
