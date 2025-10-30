@@ -1,45 +1,83 @@
 [🏠 Volver al inicio](index.md)
 
-## 🔹 Algoritmo trasladado a Pseudocódigo
 
 # 💼 Cálculo de Sueldos por Área del Hospital (PSeInt)
 
-Este algoritmo en **PSeInt** calcula el **presupuesto asignado a tres áreas del hospital**:  
-- **Gerencia**  
-- **Terapia**  
-- **Pediatría**  
+# 🏥 Distribución del Presupuesto en un Hospital
+
+En un hospital existen tres áreas: **Ginecología, Pediatría y Traumatología**.  
+El presupuesto anual del hospital se reparte conforme a la siguiente tabla:
+
+- 🩺 **Ginecología:** 40%  
+- 🦴 **Traumatología:** 30%  
+- 🧒 **Pediatría:** 30%  
+
+Obtener la cantidad de dinero que recibirá cada área para cualquier monto presupuestal.  
+
+---
+## 🧾 Análisis  
 
 El usuario ingresa el **presupuesto total**, y el programa distribuye los fondos según porcentajes establecidos.  
 El algoritmo utiliza una **estructura secuencial**, donde las instrucciones se ejecutan en orden lógico: entrada → proceso → salida.
 
-
-
-| **Etapa** | **Descripción en Pseudocódigo** |
-|------------|---------------------------------|
-| **🔹 Inicio** | `Inicio` |
-| **📦 Declaración de Variables** | `// Variables: Definir sueldoG, sueldoT, sueldoP, pago Como Real;` |
-| **📥 Datos de Entrada** | `// Datos de entrada: Escribir "Por favor ingrese el presupuesto total"; Leer pago;` |
-| **⚙️ Proceso (Cálculos)** | `// Proceso: sueldoG = (pago * 40) / 100; sueldoT = (pago * 30) / 100; sueldoP = (pago * 30) / 100;` |
-| **📤 Salida de Datos** | `// Salida: Escribir "El sueldo que debe recibir cada área es de: ", sueldoG, " Ginecología, ", sueldoT, " Traumatología, ", sueldoP, " Pediatría";` |
-| **🏁 Fin del Algoritmo** | `FinAlgoritmo` |
-
----
-
-## 🧾 Explicación
 - El pseudocódigo muestra **la secuencia lógica** de pasos que realiza el algoritmo.  
 - Se definen las variables necesarias (`sueldoG`, `sueldoT`, `sueldoP`, `pago`).  
 - Se solicita el presupuesto total y se calculan los sueldos por área, distribuidos en **40%, 30% y 30%** respectivamente.  
 - Finalmente, se muestra la salida con los resultados calculados.
 
----
-
 ## 🧩 Resultado Esperado
 El algoritmo debe mostrar en pantalla los sueldos que corresponden a cada área del hospital, según el presupuesto ingresado por el usuario.
 
+## 🔹 Algoritmo trasladado a Pseudocódigo
+
+```pseudocode
+Proceso Presupuesto_Hospital
+    // Declaración de variables
+    Definir sueldoG, sueldoT, sueldoP, presupuesto Como Real
+
+    // Entrada de datos
+    Escribir "Ingrese el presupuesto: ";
+    Leer presupuesto;
+
+    // ⚙️ Proceso
+    sueldoG = (presupuesto * 40) / 100
+    sueldoT = (presupuesto * 30) / 100
+    sueldoP = (presupuesto * 30) / 100
+
+    // 📤 Salida de resultados
+    Escribir "El sueldo para cada área es de: "
+    Escribir "Ginecología: ", sueldoG
+    Escribir "Traumatología: ", sueldoT
+    Escribir "Pediatría: ", sueldoP
+FinProceso
+
+```
+
+---
 
 ## Ejercicio dos de Pseudocódigo
 
-## 📏 Conversión de Metros a Kilómetros, Centímetros y Milímetros
+# 📏 Conversión de Metros a Otras Unidades
+
+Realice un programa que, tomando una cantidad expresada en **metros**, la transforme a su equivalente en **kilómetros**, **centímetros** y **milímetros**.
+
+## 🔍 Análisis
+
+En el presente problema se pide determinar los valores en **km, cm y mm** dada cierta cantidad en metros.  
+
+**Datos de entrada:**  
+- Valor ingresado por el usuario como variable: `numero`
+
+**Proceso:**  
+Realizaremos una **regla de tres** para cada parámetro solicitado:
+
+- `km = (1 * numero) / 1000`  
+- `cm = (numero * 100) / 1`  
+- `mm = (numero * 1000) / 1`
+
+**Datos de salida:**  
+- Resultados deseados: `km`, `cm` y `mm`
+
 
   ## 💻 Algoritmo en PSeInt
 
