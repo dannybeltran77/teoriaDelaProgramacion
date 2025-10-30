@@ -81,7 +81,7 @@ En este diagrama se estructura un algoritmo para calcular unidades en km, cm y m
 
 # 💰 Diagrama de Flujo: Presupuesto
 
-Y en el siguiente programa se representa un algoritmo para calcular el presupuesto que debe resivir determinadas áreas de trabajo dado un monto de dinero para todas las áreas de trabajo.
+Y en el siguiente programa se representa un algoritmo para calcular el presupuesto que debe recibir determinadas áreas de trabajo dado un monto de dinero para todas las áreas.
 
 <img width="3840" height="2160" alt="Captura de pantalla (95)" src="https://github.com/user-attachments/assets/19369df3-0ba1-44c1-910f-f0ab75a882cd" />
 
