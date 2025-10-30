@@ -1,14 +1,5 @@
 [🏠 Volver al inicio](index.md)
 
-Algoritmos traducidos a Psudocodigos
-
-
-# 🧩 
-
-## 🧠 
-
----
-
 ## 🔹 Algoritmo trasladado a Pseudocódigo
 
 # 💼 Cálculo de Sueldos por Área del Hospital (PSeInt)
