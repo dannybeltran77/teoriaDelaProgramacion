@@ -198,6 +198,31 @@ La imagen muestra el diseño del algoritmo número dos representado en pseudocó
 ## ⚙️ Pseudocódigo segundo ejercicio
 
 
+# 📏 Programa: Conversión de Metros
+
+Realice un programa que, tomando una cantidad expresada en **metros**, la transforme a su equivalente en:
+
+- **Kilómetros (km)**  
+- **Centímetros (cm)**  
+- **Milímetros (mm)**
+
+
+## 🧠 Análisis Resumido: Entradas, Proceso y Salidas
+
+### 📥 Entradas
+Datos proporcionados por el usuario para que el algoritmo realice los cálculos.  
+- Variable de entrada: `numero` (cantidad en metros)
+
+### ⚙️ Proceso
+Operaciones que transforman la entrada en los resultados solicitados.  
+- Conversiones:  
+  ```text
+  km = numero / 1000
+  cm = numero * 100
+  mm = numero * 1000
+```
+
+
 | 🧩 **Etapa**                    | 💻 **Pseudocódigo (PSeInt)**                                                                                                                                    |
 | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **🔹 Inicio** | ```pseudocode
