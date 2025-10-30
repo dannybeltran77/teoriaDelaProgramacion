@@ -188,6 +188,20 @@ El presupuesto anual debe ser repartido entre tres áreas del hospital:
 - `T = 30%`  
 - `P = 30%`
 
+## Prueba de Escritorio
+
+Una prueba de escritorio es una técnica utilizada para verificar que un algoritmo o programa funciona correctamente antes de ejecutarlo en una computadora.
+
+# 🧾 Pruebas de Escritorio — Distribución del Presupuesto (Valores Bajos)
+
+| Prueba | Presupuesto (`pago`) | Cálculo Ginecología (`sueldoG`) | Cálculo Traumatología (`sueldoT`) | Cálculo Pediatría (`sueldoP`) | Resultado Esperado |
+|--------|---------------------|---------------------------------|----------------------------------|--------------------------------|------------------|
+| 1      | 1000                | 1000 * 40 / 100 = 400           | 1000 * 30 / 100 = 300            | 1000 * 30 / 100 = 300          | G: 400, T: 300, P: 300 |
+| 2      | 500                 | 500 * 40 / 100 = 200            | 500 * 30 / 100 = 150             | 500 * 30 / 100 = 150           | G: 200, T: 150, P: 150 |
+| 3      | 750                 | 750 * 40 / 100 = 300            | 750 * 30 / 100 = 225             | 750 * 30 / 100 = 225           | G: 300, T: 225, P: 225 |
+
+
+
 ## Primer ejercicio implementado en Pseint
 
 La imagen muestra el diseño del algoritmo número dos representado en pseudocódigo utilizando PSeInt
@@ -251,6 +265,17 @@ FinAlgoritmo
 ``` |
 ```
 ---
+
+
+# 🧾 Prueba de Escritorio — Conversión de Metros
+
+| Prueba | Metros (`numero`) | Cálculo Kilómetros (`km`) | Cálculo Centímetros (`cm`) | Cálculo Milímetros (`mm`) | Resultado Esperado |
+|--------|-----------------|---------------------------|----------------------------|---------------------------|------------------|
+| 1      | 100             | 100 / 1000 = 0.1         | 100 * 100 = 10000          | 100 * 1000 = 100000       | km: 0.1, cm: 10000, mm: 100000 |
+| 2      | 200             | 200 / 1000 = 0.2         | 200 * 100 = 20000          | 200 * 1000 = 200000       | km: 0.2, cm: 20000, mm: 200000 |
+| 3      | 150             | 150 / 1000 = 0.15        | 150 * 100 = 15000          | 150 * 1000 = 150000       | km: 0.15, cm: 15000, mm: 150000 |
+
+
 
 ## 📸 Pseudocódigo en Pseint
 
