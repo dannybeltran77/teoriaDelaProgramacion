@@ -3,7 +3,7 @@
 
 # 💼 Cálculo de Sueldos por Área del Hospital (PSeInt)
 
-# 🏥 Distribución del Presupuesto en un Hospital
+### 🏥 Distribución del Presupuesto en un Hospital
 
 En un hospital existen tres áreas: **Ginecología, Pediatría y Traumatología**.  
 El presupuesto anual del hospital se reparte conforme a la siguiente tabla:
