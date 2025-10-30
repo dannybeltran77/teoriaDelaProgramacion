@@ -153,6 +153,25 @@ El presupuesto anual del hospital se reparte conforme a la siguiente tabla:
 **🎯 Objetivo:**  
 Obtener la cantidad de dinero que recibirá cada área para cualquier monto presupuestal.
 
+## 🔍 Análisis
+
+En este problema debemos determinar el **porcentaje en dólares** que recibe cada área de trabajo dado cierto presupuesto.
+
+**Datos de entrada:**  
+- Presupuesto ingresado por el usuario: `presupuesto`
+
+**Proceso:**  
+Se realiza una **regla de tres** para cada área:
+
+- `sueldoG = (presupuesto * 40) / 100`  
+- `sueldoT = (presupuesto * 30) / 100`  
+- `sueldoP = (presupuesto * 30) / 100`
+
+**Datos de salida:**  
+- Cantidad de dinero que recibe cada área: `sueldoG`, `sueldoT` y `sueldoP`
+
+
+
 ---
 
 # 🧮 Análisis del Problema
