@@ -50,7 +50,7 @@ En este punto, la computadora **interpreta y ejecuta las instrucciones** del pro
 
 ## 🖥️ Implementación en Visual Studio
 
-## 🖥️ Código Fuente del Algoritmo
+### 🖥️ Código Fuente del Algoritmo
 
 En la siguiente imagen se muestra cómo el **algoritmo ha sido traducido a código fuente** utilizando un **lenguaje de programación**.
 
