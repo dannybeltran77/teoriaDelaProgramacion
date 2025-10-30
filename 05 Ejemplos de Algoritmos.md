@@ -47,6 +47,15 @@ En este punto, la computadora **interpreta y ejecuta las instrucciones** del pro
 
 > 💡 **Nota:** Ambas etapas son esenciales en el desarrollo de software, ya que garantizan que el código sea correcto y funcional antes de su uso final.
 
+# 🧾 Prueba de Escritorio — Conversión de Metros
+
+| Prueba | Metros (`numero`) | Cálculo Kilómetros (`km`) | Cálculo Centímetros (`cm`) | Cálculo Milímetros (`mm`) | Resultado Esperado |
+|--------|-----------------|---------------------------|----------------------------|---------------------------|------------------|
+| 1      | 100             | 100 / 1000 = 0.1         | 100 * 100 = 10000          | 100 * 1000 = 100000       | km: 0.1, cm: 10000, mm: 100000 |
+| 2      | 200             | 200 / 1000 = 0.2         | 200 * 100 = 20000          | 200 * 1000 = 200000       | km: 0.2, cm: 20000, mm: 200000 |
+| 3      | 150             | 150 / 1000 = 0.15        | 150 * 100 = 15000          | 150 * 1000 = 150000       | km: 0.15, cm: 15000, mm: 150000 |
+
+
 
 ## 🖥️ Implementación en Visual Studio
 
@@ -114,6 +123,16 @@ Se realiza una **regla de tres** para cada área:
 
 **Datos de salida:**  
 - Cantidad de dinero que recibe cada área: `sueldoG`, `sueldoT` y `sueldoP`
+
+
+# 🧾 Prueba de Escritorio — Conversión de Metros
+
+| Prueba | Metros (`numero`) | Cálculo Kilómetros (`km`) | Cálculo Centímetros (`cm`) | Cálculo Milímetros (`mm`) | Resultado Esperado |
+|--------|-----------------|---------------------------|----------------------------|---------------------------|------------------|
+| 1      | 1               | 1 / 1000 = 0.001         | 1 * 100 = 100             | 1 * 1000 = 1000          | km: 0.001, cm: 100, mm: 1000 |
+| 2      | 5               | 5 / 1000 = 0.005         | 5 * 100 = 500             | 5 * 1000 = 5000          | km: 0.005, cm: 500, mm: 5000 |
+| 3      | 10              | 10 / 1000 = 0.01         | 10 * 100 = 1000           | 10 * 1000 = 10000        | km: 0.01, cm: 1000, mm: 10000 |
+
 
 ## 🖥️ Implementación en Visual Studio
 
