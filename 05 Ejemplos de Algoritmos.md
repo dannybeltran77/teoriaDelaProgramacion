@@ -56,9 +56,6 @@ En este punto, la computadora **interpreta y ejecuta las instrucciones** del pro
 | 3      | 150             | 150 / 1000 = 0.15        | 150 * 100 = 15000          | 150 * 1000 = 150000       | km: 0.15, cm: 15000, mm: 150000 |
 
 
-
-## 🖥️ Implementación en Visual Studio
-
 ### 🖥️ Código Fuente del Algoritmo
 
 En la siguiente imagen se muestra cómo el **algoritmo ha sido traducido a código fuente** utilizando un **lenguaje de programación**.
@@ -90,6 +87,10 @@ Para **ejecutar el programa**, escribimos el siguiente comando en la terminal:
 
 <img width="900" height="2160" alt="Captura de pantalla (99)" src="https://github.com/user-attachments/assets/46686910-54c8-4e57-ada7-653ca586b193" />
 
+
+## 🖥️ Ejecución de los 3 casos de ejercicios.
+
+<img width="3840" height="2160" alt="Captura de pantalla (106)" src="https://github.com/user-attachments/assets/880064e1-b027-452c-adca-3334f0536c3d" />
 
 
 # 🏥 Problema 2: Distribución del Presupuesto en un Hospital
@@ -167,6 +168,10 @@ Para **ejecutar el programa**, escribimos el siguiente comando en la terminal:
 ```bash
 .\presupuesto.exe
 ```
+## Ejecución de los 3 casos del código
+
+<img width="3840" height="2160" alt="Captura de pantalla (105)" src="https://github.com/user-attachments/assets/266c0e98-4df8-422e-97e8-d927cc12e0e6" />
+
 
 <img width="900" height="2160" alt="Captura de pantalla (101)" src="https://github.com/user-attachments/assets/af547e46-735e-4f18-aaea-19a60adb0046" />
 
