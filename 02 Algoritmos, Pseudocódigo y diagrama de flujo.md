@@ -235,7 +235,8 @@ Operaciones que transforman la entrada en los resultados solicitados.
   cm = numero * 100
   mm = numero * 1000
 ```
-
+### Salida
+Son los resultados esperado en este caso: KM,CM Y MM.
 
 | 🧩 **Etapa**                    | 💻 **Pseudocódigo (PSeInt)**                                                                                                                                    |
 | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
