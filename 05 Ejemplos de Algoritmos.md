@@ -126,8 +126,8 @@ Se realiza una **regla de tres** para cada área:
 - Cantidad de dinero que recibe cada área: `sueldoG`, `sueldoT` y `sueldoP`
 
 
-# 🧾 Prueba de Escritorio — Conversión de Metros
-# 🧾 Pruebas de Escritorio — Distribución del Presupuesto (Valores Bajos)
+
+## 🧾 Pruebas de Escritorio — Distribución del Presupuesto (Valores Bajos)
 
 | Prueba | Presupuesto (`pago`) | Cálculo Ginecología (`sueldoG`) | Cálculo Traumatología (`sueldoT`) | Cálculo Pediatría (`sueldoP`) | Resultado Esperado |
 |--------|---------------------|---------------------------------|----------------------------------|--------------------------------|------------------|
@@ -168,13 +168,12 @@ Para **ejecutar el programa**, escribimos el siguiente comando en la terminal:
 ```bash
 .\presupuesto.exe
 ```
-## Ejecución de los 3 casos del código
-
-<img width="3840" height="2160" alt="Captura de pantalla (105)" src="https://github.com/user-attachments/assets/266c0e98-4df8-422e-97e8-d927cc12e0e6" />
-
 
 <img width="900" height="2160" alt="Captura de pantalla (101)" src="https://github.com/user-attachments/assets/af547e46-735e-4f18-aaea-19a60adb0046" />
 
+## Ejecución de los 3 casos del código
+
+<img width="3840" height="2160" alt="Captura de pantalla (105)" src="https://github.com/user-attachments/assets/266c0e98-4df8-422e-97e8-d927cc12e0e6" />
 
 
 <p align="center">
