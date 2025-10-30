@@ -85,13 +85,6 @@ Etapa donde se verifica que el programa:
 | `**`        | Potencia (en algunos lenguajes) | `2 ** 3` | `8`       |
 
 
-| 🧠 Operador | Significado    | Ejemplo              | Resultado     |          |   |          |        |
-| ----------- | -------------- | -------------------- | ------------- | -------- | - | -------- | ------ |
-| `&&`        | AND (y lógico) | `(5 > 3) && (8 > 6)` | `true`        |          |   |          |        |
-| `           |                | `                    | OR (o lógico) | `(5 < 3) |   | (8 > 6)` | `true` |
-| `!`         | NOT (negación) | `!(5 == 3)`          | `true`        |          |   |          |        |
-
-
 
 | ⚙️ Operador | Significado     | Ejemplo       | Resultado   |
 | ----------- | --------------- | ------------- | ----------- |
