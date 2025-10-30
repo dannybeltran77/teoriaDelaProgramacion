@@ -169,7 +169,7 @@ Se realiza una **regla de tres** para cada área:
 
 ---
 
-# 🧮 Análisis del Problema
+# 🧮 Objetivo
 
 Debemos determinar la cantidad de dinero que debe recibir cada área al obtener cierto monto de dinero.  
 Para ello, establecemos lo siguiente:
@@ -204,7 +204,7 @@ El presupuesto anual debe ser repartido entre tres áreas del hospital:
 | **🏁 Fin del Algoritmo**        | `pseudocode FinAlgoritmo `                                                                                                                                      |
 ---
 
-📸 Pseudocódigo en Pseint
+## 📸 Pseudocódigo en Pseint
 
 La imagen muestra el diseño del algoritmo representado en pseudocódigo utilizando PSeInt
 
@@ -214,7 +214,7 @@ La imagen muestra el diseño del algoritmo representado en pseudocódigo utiliza
 
 El **diagrama de flujo** es la forma de describir un algoritmo mediante figuras como **romboides, rectángulos y flechas**, que permiten visualizar el proceso paso a paso.
 
-🔄 Representación en Diagrama de Flujo:
+## 🔄 Representación en Diagrama de Flujo:
 
 Se aplica la misma metodología que en el pseudocódigo, con la diferencia de que en el diagrama de flujo la información se organiza en figuras geométricas:
 
