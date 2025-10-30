@@ -64,6 +64,7 @@ Cumpla con los resultados esperados ✅
 Tipo	Descripción
 
 🗣️ Cualitativos	Se expresan con frases o palabras.
+
 🔢 Cuantitativos	Utilizan fórmulas o procesos matemáticos.
 
 
@@ -129,11 +130,6 @@ El **pseudocódigo** es la forma de representar un algoritmo en un lenguaje que 
 
 
 
-## 🔄 Diagrama de Flujo
-
-El **diagrama de flujo** es la forma de describir un algoritmo mediante figuras como **romboides, rectángulos y flechas**, que permiten visualizar el proceso paso a paso.
-
-
 
 ## 🏥 Problema Planteado en Pseudocódigo
 
@@ -195,6 +191,9 @@ El presupuesto anual debe ser repartido entre tres áreas del hospital:
 
 <img width="3183" height="1474" alt="Captura de pantalla (75)" src="https://github.com/user-attachments/assets/8827687c-8f97-42d5-827a-25cf3d1a89de" />
 
+## 🔄 Diagrama de Flujo
+
+El **diagrama de flujo** es la forma de describir un algoritmo mediante figuras como **romboides, rectángulos y flechas**, que permiten visualizar el proceso paso a paso.
 
 🔄 Representación en Diagrama de Flujo:
 
