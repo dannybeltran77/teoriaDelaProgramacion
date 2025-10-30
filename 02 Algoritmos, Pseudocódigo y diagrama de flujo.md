@@ -236,7 +236,7 @@ Operaciones que transforman la entrada en los resultados solicitados.
   mm = numero * 1000
 
 ### Salida
-Son los resultados esperadoS en este caso: KM,CM Y MM.
+Son los resultados esperados en este caso: Km, CM, Mm.
 ```
 | 🧩 **Etapa**                    | 💻 **Pseudocódigo (PSeInt)**                                                                                                                                    |
 | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
