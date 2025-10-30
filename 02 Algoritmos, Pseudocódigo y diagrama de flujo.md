@@ -206,7 +206,7 @@ El presupuesto anual debe ser repartido entre tres áreas del hospital:
 
 📸 Pseudocódigo en Pseint
 
-En la presente imagen se muestra el diseño del pseudocódico en Pseint.
+La imagen muestra el diseño del algoritmo representado en pseudocódigo utilizando PSeInt
 
 <img width="3183" height="1474" alt="Captura de pantalla (75)" src="https://github.com/user-attachments/assets/8827687c-8f97-42d5-827a-25cf3d1a89de" />
 
