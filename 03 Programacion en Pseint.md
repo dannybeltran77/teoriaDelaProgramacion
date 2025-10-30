@@ -1,11 +1,44 @@
 [🏠 Volver al inicio](index.md)
 
-# 📏 Conversión de Metros a Kilómetros, Centímetros y Milímetros
+Algoritmos traducidos a Psudocodigos
 
-Este programa en lenguaje **C** realiza conversiones de una cantidad en **metros** a sus equivalentes en:
-- **Kilómetros (km)**
-- **Centímetros (cm)**
-- **Milímetros (mm)**
+
+# 🧩 Algoritmos Traducidos a Pseudocódigos
+
+## 🧠 Descripción
+En esta sección se presentan los **algoritmos traducidos a pseudocódigos**, los cuales describen de forma estructurada y legible la lógica necesaria para resolver el problema planteado.  
+El pseudocódigo se utiliza como una herramienta intermedia entre el planteamiento lógico y la codificación en un lenguaje de programación (como C# en Visual Studio).
+
+---
+
+## 🔹 Pseudocódigo del Algoritmo
+
+| **Etapa** | **Descripción en Pseudocódigo** |
+|------------|---------------------------------|
+| **🔹 Inicio** | `Inicio` |
+| **📦 Declaración de Variables** | `// Variables: Definir sueldoG, sueldoT, sueldoP, pago Como Real;` |
+| **📥 Datos de Entrada** | `// Datos de entrada: Escribir "Por favor ingrese el presupuesto total"; Leer pago;` |
+| **⚙️ Proceso (Cálculos)** | `// Proceso: sueldoG = (pago * 40) / 100; sueldoT = (pago * 30) / 100; sueldoP = (pago * 30) / 100;` |
+| **📤 Salida de Datos** | `// Salida: Escribir "El sueldo que debe recibir cada área es de: ", sueldoG, " Ginecología, ", sueldoT, " Traumatología, ", sueldoP, " Pediatría";` |
+| **🏁 Fin del Algoritmo** | `FinAlgoritmo` |
+
+---
+
+## 🧾 Explicación
+- El pseudocódigo muestra **la secuencia lógica** de pasos que realiza el algoritmo.  
+- Se definen las variables necesarias (`sueldoG`, `sueldoT`, `sueldoP`, `pago`).  
+- Se solicita el presupuesto total y se calculan los sueldos por área, distribuidos en **40%, 30% y 30%** respectivamente.  
+- Finalmente, se muestra la salida con los resultados calculados.
+
+---
+
+## 🧩 Resultado Esperado
+El algoritmo debe mostrar en pantalla los sueldos que corresponden a cada área del hospital, según el presupuesto ingresado por el usuario.
+
+📘 **Ejemplo de salida:**
+
+
+## 📏 Conversión de Metros a Kilómetros, Centímetros y Milímetros
 
   ## 💻 Algoritmo en PSeInt
 
