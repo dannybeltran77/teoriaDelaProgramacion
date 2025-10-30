@@ -56,9 +56,9 @@ Proceso Calculo_Sueldo_Hospital
     Leer presupuesto
 
     // Proceso (Distribución del presupuesto)
-    sueldoG <- (presupuesto * 40) / 100   // 40% para Gerencia
-    sueldoT <- (presupuesto * 30) / 100   // 30% para Terapia
-    sueldoP <- (presupuesto * 30) / 100   // 30% para Pediatría
+    sueldoG <- (presupuesto * 40) / 100   
+    sueldoT <- (presupuesto * 30) / 100   
+    sueldoP <- (presupuesto * 30) / 100   
 
     // Salida
     Escribir ""
