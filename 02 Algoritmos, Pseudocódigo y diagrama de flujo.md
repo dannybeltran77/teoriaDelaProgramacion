@@ -220,7 +220,7 @@ Escribir "El sueldo que debe recibir cada área es de: ", sueldoG, " ", sueldoT,
 | **🏁 Fin del Algoritmo** | ```pseudocode
 FinAlgoritmo
 ``` |
-
+```
 ---
 
 ## 📸 Pseudocódigo en Pseint
