@@ -20,10 +20,19 @@ Obtener la cantidad de dinero que recibirá cada área para cualquier monto pres
 El usuario ingresa el **presupuesto total**, y el programa distribuye los fondos según porcentajes establecidos.  
 El algoritmo utiliza una **estructura secuencial**, donde las instrucciones se ejecutan en orden lógico: entrada → proceso → salida.
 
-- El pseudocódigo muestra **la secuencia lógica** de pasos que realiza el algoritmo.  
 - Se definen las variables necesarias (`sueldoG`, `sueldoT`, `sueldoP`, `pago`).  
 - Se solicita el presupuesto total y se calculan los sueldos por área, distribuidos en **40%, 30% y 30%** respectivamente.  
 - Finalmente, se muestra la salida con los resultados calculados.
+
+  - **Datos de entrada:**  
+  El valor que va a ingresar el usuario como variable: `numero`.  
+
+- **Proceso:**  
+  Se realiza una **regla de tres** para cada parámetro solicitado:  
+  ```text
+  km = (1 * numero) / 1000;
+  cm = (numero * 100) / 1;
+  mm = (numero * 1000) / 1;
 
 ## 🧩 Resultado Esperado
 El algoritmo debe mostrar en pantalla los sueldos que corresponden a cada área del hospital, según el presupuesto ingresado por el usuario.
