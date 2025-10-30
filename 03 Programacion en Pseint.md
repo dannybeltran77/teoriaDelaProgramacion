@@ -3,15 +3,25 @@
 Algoritmos traducidos a Psudocodigos
 
 
-# 🧩 Algoritmos Traducidos a Pseudocódigos
+# 🧩 
 
-## 🧠 Descripción
-En esta sección se presentan los **algoritmos traducidos a pseudocódigos**, los cuales describen de forma estructurada y legible la lógica necesaria para resolver el problema planteado.  
-El pseudocódigo se utiliza como una herramienta intermedia entre el planteamiento lógico y la codificación en un lenguaje de programación (como C# en Visual Studio).
+## 🧠 
 
 ---
 
-## 🔹 Pseudocódigo del Algoritmo
+## 🔹 Algoritmo trasladado a Pseudocódigo
+
+# 💼 Cálculo de Sueldos por Área del Hospital (PSeInt)
+
+Este algoritmo en **PSeInt** calcula el **presupuesto asignado a tres áreas del hospital**:  
+- **Gerencia**  
+- **Terapia**  
+- **Pediatría**  
+
+El usuario ingresa el **presupuesto total**, y el programa distribuye los fondos según porcentajes establecidos.  
+El algoritmo utiliza una **estructura secuencial**, donde las instrucciones se ejecutan en orden lógico: entrada → proceso → salida.
+
+
 
 | **Etapa** | **Descripción en Pseudocódigo** |
 |------------|---------------------------------|
@@ -35,8 +45,8 @@ El pseudocódigo se utiliza como una herramienta intermedia entre el planteamien
 ## 🧩 Resultado Esperado
 El algoritmo debe mostrar en pantalla los sueldos que corresponden a cada área del hospital, según el presupuesto ingresado por el usuario.
 
-📘 **Ejemplo de salida:**
 
+## Ejercicio dos de Pseudocódigo
 
 ## 📏 Conversión de Metros a Kilómetros, Centímetros y Milímetros
 
@@ -64,42 +74,6 @@ Proceso Conversion_Metros
     Escribir "Milímetros: ", mm
 FinProceso
 
-
-# 💼 Cálculo de Sueldos por Área del Hospital (PSeInt)
-
-Este algoritmo en **PSeInt** calcula el **presupuesto asignado a tres áreas del hospital**:  
-- **Gerencia**  
-- **Terapia**  
-- **Pediatría**  
-
-El usuario ingresa el **presupuesto total**, y el programa distribuye los fondos según porcentajes establecidos.  
-El algoritmo utiliza una **estructura secuencial**, donde las instrucciones se ejecutan en orden lógico: entrada → proceso → salida.
-
----
-
-## 💻 Algoritmo en PSeInt
-
-```pseint
-Proceso Calculo_Sueldo_Hospital
-    // Declaración de variables
-    Definir presupuesto, sueldoG, sueldoT, sueldoP Como Real
-
-    // Entrada de datos
-    Escribir "Ingrese el presupuesto total del hospital: "
-    Leer presupuesto
-
-    // Proceso (Distribución del presupuesto)
-    sueldoG <- (presupuesto * 40) / 100   
-    sueldoT <- (presupuesto * 30) / 100   
-    sueldoP <- (presupuesto * 30) / 100   
-
-    // Salida
-    Escribir ""
-    Escribir "Distribución del presupuesto:"
-    Escribir "Gerencia: $", sueldoG
-    Escribir "Terapia: $", sueldoT
-    Escribir "Pediatría: $", sueldoP
-FinProceso
 
 ``` 
 
