@@ -57,7 +57,7 @@ En este caso, la línea utilizada para compilar es la siguiente:
 
 ```bash
 gcc .\convertirMetros.c -o convertirMetros
-
+```
 
 <img width="900" height="2160" alt="Captura de pantalla (98)" src="https://github.com/user-attachments/assets/7edc9914-ba43-4203-8f98-6eeff9f299f1" />
 
@@ -69,7 +69,7 @@ Para **ejecutar el programa**, escribimos el siguiente comando en la terminal:
 
 ```bash
 .\convertirMetros.exe
-
+```
 
 <img width="900" height="2160" alt="Captura de pantalla (99)" src="https://github.com/user-attachments/assets/46686910-54c8-4e57-ada7-653ca586b193" />
 
@@ -126,7 +126,7 @@ En este caso, la línea utilizada para compilar es la siguiente:
 gcc .\presupuesto.c -o presupuesto
 
 <img width="900" height="2160" alt="Captura de pantalla (100)" src="https://github.com/user-attachments/assets/939cef7c-de4c-41c5-a5a3-0dd79a85a295" />
-
+```
 
 
 ## ▶️ Ejecución del Programa
@@ -135,7 +135,7 @@ Para **ejecutar el programa**, escribimos el siguiente comando en la terminal:
 
 ```bash
 .\presupuesto.exe
-
+```
 <img width="900" height="2160" alt="Captura de pantalla (101)" src="https://github.com/user-attachments/assets/af547e46-735e-4f18-aaea-19a60adb0046" />
 
 <img width="3840" height="2160" alt="Captura de pantalla (78)" src="https://github.com/user-attachments/assets/ab06f435-ff1c-4f5c-86e9-d92316a51264" />
