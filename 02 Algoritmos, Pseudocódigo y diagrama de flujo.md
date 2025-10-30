@@ -206,6 +206,8 @@ El presupuesto anual debe ser repartido entre tres áreas del hospital:
 
 📸 Pseudocódigo en Pseint
 
+En la presente imagen se muestra el diseño del pseudocódico en Pseint.
+
 <img width="3183" height="1474" alt="Captura de pantalla (75)" src="https://github.com/user-attachments/assets/8827687c-8f97-42d5-827a-25cf3d1a89de" />
 
 ## 🔄 Diagrama de Flujo
@@ -229,6 +231,8 @@ Este enfoque facilita la comprensión visual del algoritmo y permite identificar
 
 📊 Ejemplo de Diagrama de Flujo:
 
+
+En la presente imagen se muestra como esta estructurado un Diagrama de flujo.
 <img width="500" height="2039" alt="Captura de pantalla (76)" src="https://github.com/user-attachments/assets/fbe333c4-baf5-4185-9eee-af01f9202c12" />
 
 
