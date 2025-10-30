@@ -146,6 +146,7 @@ Para **ejecutar el programa**, escribimos el siguiente comando en la terminal:
 ```bash
 .\presupuesto.exe
 ```
+
 <img width="900" height="2160" alt="Captura de pantalla (101)" src="https://github.com/user-attachments/assets/af547e46-735e-4f18-aaea-19a60adb0046" />
 
 
