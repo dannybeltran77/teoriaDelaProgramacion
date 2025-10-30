@@ -10,11 +10,16 @@ Un **algoritmo** es una serie de pasos ordenados que siguen una secuencia lógic
 
 🧠 Algoritmos
 
+
 Todo algoritmo tiene un principio y un final.
 Es un conjunto de pasos ordenados que permiten resolver un problema o realizar una tarea específica.
 
+
+
 🧩 Pasos para resolver un problema
+
 🔍 1. Análisis
+
 
 Consiste en estudiar bien el problema, identificando:
 
@@ -23,6 +28,8 @@ Consiste en estudiar bien el problema, identificando:
 ⚙️ Procesos: Operaciones o fórmulas necesarias para llegar a la solución.
 
 📤 Salidas: Resultados obtenidos de la solución del problema.
+
+
 
 🧱 2. Diseño del algoritmo
 
@@ -34,9 +41,12 @@ Consiste en estructurar el algoritmo mediante:
 
 Estas herramientas permiten visualizar la lógica antes de programar.
 
+
+
 💻 3. Codificación
 
 Proceso de traducir los algoritmos a un lenguaje de programación, convirtiéndolos en un programa ejecutable.
+
 
 🧪 4. Pruebas
 
@@ -48,29 +58,35 @@ Funcione correctamente ⚙️
 
 Cumpla con los resultados esperados ✅
 
+
 🧮 Clasificación de los algoritmos
+
 Tipo	Descripción
+
 🗣️ Cualitativos	Se expresan con frases o palabras.
 🔢 Cuantitativos	Utilizan fórmulas o procesos matemáticos.
 
 
-🔤 Tipos de datos
-Tipo de dato	Representación	Descripción
-🔢 Entero	int	Números enteros (positivos o negativos)
-💧 Real	float	Números con decimales
-⚖️ Lógico	boolean	Verdadero o falso (true / false)
-🔡 Carácter	char	Un solo carácter, por ejemplo 'A' o '9'
+| Tipo de dato    | Representación | Descripción                                 |
+| --------------- | -------------- | ------------------------------------------- |
+| 🔢 **Entero**   | `int`          | Números enteros (positivos o negativos)     |
+| 💧 **Real**     | `float`        | Números con decimales                       |
+| ⚖️ **Lógico**   | `boolean`      | Verdadero o falso (`true` / `false`)        |
+| 🔡 **Carácter** | `char`         | Un solo carácter, por ejemplo `'A'` o `'9'` |
+
 
 
 🏷️ Identificadores
 
 Los identificadores son nombres que se usan para representar variables o constantes dentro de un programa.
 
+
 🔸 Tipos
 
 Variable: Su valor puede cambiar durante la ejecución del programa.
 
 Constante: Su valor permanece fijo durante toda la ejecución.
+
 
 ✍️ Recomendaciones
 
@@ -79,6 +95,7 @@ Utilizar el formato lowerCamelCase para nombres (por ejemplo: sumaTotal, edadUsu
 🚫 Evitar espacios, acentos, y caracteres especiales.
 
 Usar el operador de asignación (=) para definir valores.
+
 
 
 ## 📝 Pseudocódigo
