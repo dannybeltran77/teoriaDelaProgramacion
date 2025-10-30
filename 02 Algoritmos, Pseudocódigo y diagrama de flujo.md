@@ -199,7 +199,9 @@ El presupuesto anual debe ser repartido entre tres áreas del hospital:
 | **🔹 Inicio**                   | `pseudocode Inicio `                                                                                                                                            |
 | **📦 Declaración de Variables** | `pseudocode // Variables  Definir sueldoG, sueldoT, sueldoP, pago Como Real; `                                                                                  |
 | **📥 Datos de Entrada**         | `pseudocode // Datos de entrada  Escribir "Por favor ingrese el presupuesto total"  Leer pago; `                                                                |
-| **⚙️ Proceso (Cálculos)**       | `pseudocode // Proceso  sueldoG = (pago * 40) / 100  sueldoT = (pago * 30) / 100  sueldoP = (pago * 30) / 100 `                                                 |
+| **⚙️ Proceso (Cálculos)**       | `pseudocode // Proceso  sueldoG = (pago * 40) / 100  
+                                                             sueldoT = (pago * 30) / 100  
+                                                             sueldoP = (pago * 30) / 100 `                                                 |
 | **📤 Salida de Datos**          | `pseudocode // Salida  Escribir "El sueldo que debe recibir cada área es de: ", sueldoG, " Ginecología, ", sueldoT, " Traumatología, ", sueldoP, " Pediatría" ` |
 | **🏁 Fin del Algoritmo**        | `pseudocode FinAlgoritmo `                                                                                                                                      |
 ---
