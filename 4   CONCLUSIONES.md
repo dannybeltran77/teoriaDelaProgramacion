@@ -7,7 +7,8 @@ Asimismo, considero que el estudiante de programación debe fortalecer continuam
 Finalmente, me llevo las palabras de la docente: hacer las cosas con excelencia es esencial para ser un gran profesional y generar un impacto positivo en el ámbito laboral y social.
 
 
-![Paisaje](https://example.com/paisaje.jpg)
+![Paisaje](<img width="840" height="630" alt="UNL" src="https://github.com/user-attachments/assets/759c7910-4116-4107-93be-bdf4bcb7e0be" />
+)
 
 
 <p align="center">
