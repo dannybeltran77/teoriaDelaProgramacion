@@ -27,17 +27,10 @@ El algoritmo utiliza una **estructura secuencial**, donde las instrucciones se e
   - **Datos de entrada:**  
   El valor que va a ingresar el usuario como variable: `numero`.  
 
-- **Proceso:**  
-  Se realiza una **regla de tres** para cada parámetro solicitado:  
-  ```text
-  km = (1 * numero) / 1000;
-  cm = (numero * 100) / 1;
-  mm = (numero * 1000) / 1;
-
 ## 🧩 Resultado Esperado
 El algoritmo debe mostrar en pantalla los sueldos que corresponden a cada área del hospital, según el presupuesto ingresado por el usuario.
 
-## 🔹 Algoritmo trasladado a Pseudocódigo
+## 🔹 Algoritmo dos trasladado a Pseudocódigo
 
 ```pseudocode
 Proceso Presupuesto_Hospital
