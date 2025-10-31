@@ -205,9 +205,11 @@ Una prueba de escritorio es una técnica utilizada para verificar que un algorit
 ## Ejecución de pseudocódigo de Prueba de Escritorio.
 
 ![821d578c-6b32-456c-b8a9-1839f05975e2](https://github.com/user-attachments/assets/3f723722-8269-4df3-b0d2-13edd9adc579)
+*Figura 1.Resultado de la ejecución del primer ejemplo de prueba de escritorio.
 ![bf3dcdfb-ac8d-4fe0-8eed-edaa3163945d](https://github.com/user-attachments/assets/05f83351-4b2b-4ec6-8070-6bb5f82fc550)
+*Figura 1.Resultado de la ejecución del segundo ejemplo de prueba de escritorio.
 ![e1475c35-839f-484b-9c68-fa780c2c60f9](https://github.com/user-attachments/assets/f1cfe9b8-d03c-4a1b-839f-973ce4e12849)
-
+*Figura 1.Resultado de la ejecución del tercer ejemplo de prueba de escritorio.
 
 ## ⚙️ Pseudocódigo segundo ejercicio
 
@@ -280,17 +282,19 @@ FinAlgoritmo
 
 ## 📸 Pseudocódigo en Pseint
 
-La imagen muestra el diseño del algoritmo representado en pseudocódigo utilizando PSeInt
+
 
 <img width="3183" height="1474" alt="Captura de pantalla (75)" src="https://github.com/user-attachments/assets/8827687c-8f97-42d5-827a-25cf3d1a89de" />
+*Figura 1.La imagen muestra el diseño del algoritmo representado en pseudocódigo utilizando PSeInt.
 
 ## Ejecución de pseudocódigo de los ejercicios de Prueba de Escritorio.
 
 ![63c3f3c8-6b11-454c-8626-4fa5fc8229b5](https://github.com/user-attachments/assets/0447e63d-95de-43bb-936a-9eb18c11a6a2)
-
+*Figura 1.Resultado de la ejecución del primer ejemplo de prueba de escritorio.
 ![258f4e53-a5f4-4eb8-8522-186d0bc05551](https://github.com/user-attachments/assets/5a8d361a-aebf-4c91-ab2a-2f7225712742)
-
+*Figura 1.Resultado de la ejecución del segundo ejemplo de prueba de escritorio.
 ![322f9f98-a42e-430c-8150-a8eacdac01e9](https://github.com/user-attachments/assets/3fae2da8-c565-4aa8-91e9-f7e07dfd8716)
+*Figura 1.Resultado de la ejecución del tercer ejemplo de prueba de escritorio.
 
 ## 🔄 Diagrama de Flujo
 
@@ -314,9 +318,9 @@ Este enfoque facilita la comprensión visual del algoritmo y permite identificar
 📊 Ejemplo de Diagrama de Flujo:
 
 
-En la presente imagen se muestra como esta estructurado un Diagrama de flujo.
-<img width="500" height="2039" alt="Captura de pantalla (76)" src="https://github.com/user-attachments/assets/fbe333c4-baf5-4185-9eee-af01f9202c12" />
 
+<img width="500" height="2039" alt="Captura de pantalla (76)" src="https://github.com/user-attachments/assets/fbe333c4-baf5-4185-9eee-af01f9202c12" />
+*Figura 1.En la presente imagen se muestra como esta estructurado un Diagrama de flujo.
 
 <p align="center">
   <a href="01 Carátula.md">⬅️ Anterior</a> |
