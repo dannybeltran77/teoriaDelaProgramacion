@@ -200,7 +200,7 @@ Una prueba de escritorio es una técnica utilizada para verificar que un algorit
 
 
 <img width="3840" height="2160" alt="Captura de pantalla (102)" src="https://github.com/user-attachments/assets/a0c85479-91e1-42f1-98e8-97679b10a5ac" />
-*Figura 1.La imagen muestra el diseño del algoritmo número dos representado en pseudocódigo utilizando PSeInt
+*Figura 1.La imagen muestra el diseño del algoritmo representado en pseudocódigo utilizando PSeInt
 
 ## Ejecución de pseudocódigo de Prueba de Escritorio.
 
