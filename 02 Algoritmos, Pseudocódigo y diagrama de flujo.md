@@ -205,12 +205,15 @@ Una prueba de escritorio es una técnica utilizada para verificar que un algorit
 ## Ejecución de pseudocódigo de Prueba de Escritorio.
 
 ![821d578c-6b32-456c-b8a9-1839f05975e2](https://github.com/user-attachments/assets/3f723722-8269-4df3-b0d2-13edd9adc579)
+
 *Figura 1.Resultado de la ejecución del primer ejemplo de prueba de escritorio.
 
 ![bf3dcdfb-ac8d-4fe0-8eed-edaa3163945d](https://github.com/user-attachments/assets/05f83351-4b2b-4ec6-8070-6bb5f82fc550)
+
 *Figura 1.Resultado de la ejecución del segundo ejemplo de prueba de escritorio.
 
 ![e1475c35-839f-484b-9c68-fa780c2c60f9](https://github.com/user-attachments/assets/f1cfe9b8-d03c-4a1b-839f-973ce4e12849)
+
 *Figura 1.Resultado de la ejecución del tercer ejemplo de prueba de escritorio.
 
 ## ⚙️ Pseudocódigo segundo ejercicio
