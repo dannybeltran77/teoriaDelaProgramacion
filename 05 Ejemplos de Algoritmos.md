@@ -62,6 +62,8 @@ En la siguiente imagen se muestra cómo el **algoritmo ha sido traducido a códi
 
 <img width="3840" height="2160" alt="Captura de pantalla (80)" src="https://github.com/user-attachments/assets/e05e9724-74df-4201-89fa-61a5995dcdc6" />
 
+*Figura 15.Código fuente en Visual Studio.
+
 ## 🧠 Compilación del Código Fuente
 
 Ahora vamos a **compilar nuestro código fuente**.  
@@ -75,6 +77,7 @@ gcc .\convertirMetros.c -o convertirMetros
 
 <img width="900" height="2160" alt="Captura de pantalla (98)" src="https://github.com/user-attachments/assets/7edc9914-ba43-4203-8f98-6eeff9f299f1" />
 
+*Figura 16.Compilación de código.
 
 
 ## ▶️ Ejecución del Programa
@@ -87,11 +90,13 @@ Para **ejecutar el programa**, escribimos el siguiente comando en la terminal:
 
 <img width="900" height="2160" alt="Captura de pantalla (99)" src="https://github.com/user-attachments/assets/46686910-54c8-4e57-ada7-653ca586b193" />
 
+*Figura 17.Ejecución del programa.
 
 ## 🖥️ Ejecución de los 3 casos de ejercicios.
 
 <img width="3840" height="2160" alt="Captura de pantalla (106)" src="https://github.com/user-attachments/assets/880064e1-b027-452c-adca-3334f0536c3d" />
 
+*Figura 18.Resultados de los tres casos de Prueba de Escritorio trasladados a Studio Version.
 
 # 🏥 Problema 2: Distribución del Presupuesto en un Hospital
 
@@ -141,6 +146,8 @@ Se realiza una **regla de tres** para cada área:
 
 <img width="3840" height="2160" alt="Captura de pantalla (78)" src="https://github.com/user-attachments/assets/ab06f435-ff1c-4f5c-86e9-d92316a51264" />
 
+*Figura 19.Diseño de código fuente en Visual Studio.
+
 ## 🖥️ Código Fuente del Algoritmo
 
 En la siguiente imagen se muestra cómo el **algoritmo ha sido traducido a código fuente** utilizando un **lenguaje de programación**.
@@ -159,6 +166,7 @@ gcc .\presupuesto.c -o presupuesto
 ```
 <img width="900" height="2160" alt="Captura de pantalla (100)" src="https://github.com/user-attachments/assets/939cef7c-de4c-41c5-a5a3-0dd79a85a295" />
 
+*Figura 20.Compilación del programa.
 
 
 ## ▶️ Ejecución del Programa
@@ -171,10 +179,13 @@ Para **ejecutar el programa**, escribimos el siguiente comando en la terminal:
 
 <img width="900" height="2160" alt="Captura de pantalla (101)" src="https://github.com/user-attachments/assets/af547e46-735e-4f18-aaea-19a60adb0046" />
 
+*Figura 21.Ejecución del programa.
+
 ## Ejecución de los 3 casos del código
 
 <img width="3840" height="2160" alt="Captura de pantalla (105)" src="https://github.com/user-attachments/assets/266c0e98-4df8-422e-97e8-d927cc12e0e6" />
-
+ 
+*Figura 22.Resultado de los 3 casos de Pruebas de Escritorio trasladados a Visual Studio.
 
 <p align="center">
   <a href="04 Programación por Bloques.md">⬅️ Anterior</a> |
