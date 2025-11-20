@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/🏠_Índice-blue?style=for-the-badge">
   </a>
 
-  <a href="4 CONCLUSIONES.md">
+  <a href="4%20%20 CONCLUSIONES.md">
     <img src="https://img.shields.io/badge/➡️_Siguiente-orange?style=for-the-badge">
   </a>
 
