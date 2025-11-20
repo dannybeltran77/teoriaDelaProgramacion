@@ -15,6 +15,7 @@ Durante la práctica de programación, identifiqué algunas **dificultades comun
 
 
 <p align="center">
+  <a href="05 Ejemplos de Algoritmos.md"><button>⬅️ Anterior</button></a>
   <a href="index.md"><button>🏠 Índice</button></a>
   <a href="07 Reflexión crítica.md"><button>➡️ Siguiente</button></a>
 </p>
