@@ -53,7 +53,8 @@ De igual manera, me llevo las sabias palabras de mi docente de programación: ha
 
 
 <p align="center">
-  <a href='4 " CONCLUSIONES " '>⬅️ Anterior</a> |
-  <a href="index.md">🏠 Índice</a> |
-  <a href='09 Tareas entregadas.md'>➡️ Siguiente</a>
+  <a href="06 Principales dificultades.md"><button>⬅️ Anterior</button></a>
+  <a href="index.md"><button>🏠 Índice</button></a>
+  <a href="08 Tareas entregadas.md"><button>➡️ Siguiente</button></a>
 </p>
+
