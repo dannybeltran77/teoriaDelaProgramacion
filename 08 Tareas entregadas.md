@@ -19,7 +19,7 @@
 
 
 <p align="center">
-  <a href="08 Reflexión crítica.md">⬅️ Anterior</a> |
-  <a href="index.md">🏠 Índice</a> |
-  <a href="4%20%20 CONCLUSIONES.md">➡️ Siguiente</a>
+  <a href="07 Reflexión crítica.md"><button>⬅️ Anterior</button></a>
+  <a href="index.md"><button>🏠 Índice</button></a>
+  <a href="4 CONCLUSIONES.md"><button>➡️ Siguiente</button></a>
 </p>
