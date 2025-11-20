@@ -10,15 +10,12 @@ Un **algoritmo** es una serie de pasos ordenados que siguen una secuencia lógic
 
 🧠 Algoritmos
 
-
 Todo algoritmo tiene un principio y un final.
 Es un conjunto de pasos ordenados que permiten resolver un problema o realizar una tarea específica.
 
----
+
 
 # 🧩 Pasos para resolver un problema
-
----
 
 ## 🔍 1. Análisis
 
@@ -27,8 +24,6 @@ Consiste en estudiar bien el problema, identificando:
 - 🧾 **Entradas:** Datos o información que el usuario ingresa al programa.
 - ⚙️ **Procesos:** Operaciones o fórmulas necesarias para llegar a la solución.
 - 📤 **Salidas:** Resultados obtenidos de la solución del problema.
-
----
 
 ## 🧱 2. Diseño del algoritmo
 
@@ -39,13 +34,9 @@ Consiste en estructurar el algoritmo mediante:
 
 Estas herramientas permiten visualizar la lógica antes de programar.
 
----
-
 ## 💻 3. Codificación
 
 Proceso de traducir los algoritmos a un lenguaje de programación, convirtiéndolos en un programa ejecutable.
-
----
 
 ## 🧪 4. Pruebas
 
@@ -54,17 +45,8 @@ Etapa donde se verifica que el programa:
 - No tenga errores 🐞
 - Funcione correctamente ⚙️
 - Cumpla con los resultados esperados
-✅
 
----
-# 🧮 Clasificación de los algoritmos
-
-| Tipo | Descripción |
-|------|------------|
-| 🗣️ **Cualitativos** | Se expresan con frases o palabras. |
-| 🔢 **Cuantitativos** | Utilizan fórmulas o procesos matemáticos. |
-
----
+# 🧮 Clasificación datos 
 
 | Tipo de dato    | Representación | Descripción                                 |
 | --------------- | -------------- | ------------------------------------------- |
@@ -98,9 +80,7 @@ Etapa donde se verifica que el programa:
 
 Los identificadores son nombres que se usan para representar **variables** o **constantes** dentro de un programa.
 
----
-
-## 🔸 Tipos
+## 🔸 Tipos 
 
 - **Variable:** Su valor puede cambiar durante la ejecución del programa.  
 - **Constante:** Su valor permanece fijo durante toda la ejecución.
@@ -122,21 +102,11 @@ El **pseudocódigo** es la forma de representar un algoritmo en un lenguaje que 
 ---
 
 
-## 🏥 Problema Planteado en Pseudocódigo
+## 🏥 Problema número uno
 
-En un hospital existen tres áreas:
+# Presupuesto del hospital
 
-- **Ginecología**  
-- **Pediatría**  
-- **Traumatología**
-
-El presupuesto anual del hospital se reparte conforme a la siguiente tabla:
-
-| Área | Porcentaje |
-|------|-------------|
-| **Ginecología** | 40% |
-| **Traumatología** | 30% |
-| **Pediatría** | 30% |
+En un hospital existen tres áreas: Ginecología, Pediatría y Traumatología. El presupuesto anual del hospital se reparte conforme a los siguientes porcentajes: Ginecología: 40%, Traumatología: 30%, Pediatría: 30%, se debe obtener la cantidad de dinero que recibirá cada área para cualquier monto presupuestal.
 
 **🎯 Objetivo:**  
 Obtener la cantidad de dinero que recibirá cada área para cualquier monto presupuestal.
@@ -157,16 +127,7 @@ Se realiza una **regla de tres** para cada área:
 
 **Datos de salida:**  
 - Cantidad de dinero que recibe cada área: `sueldoG`, `sueldoT` y `sueldoP`
-
-
-
 ---
-
-# 🧮 Objetivo
-
-Debemos determinar la cantidad de dinero que debe recibir cada área al obtener cierto monto de dinero.  
-Para ello, establecemos lo siguiente:
-
 
 ## 📊 Datos
 
@@ -181,26 +142,24 @@ El presupuesto anual debe ser repartido entre tres áreas del hospital:
 - `T = 30%`  
 - `P = 30%`
 
-## Prueba de Escritorio
+
+## Problema implementado en Pseint
+
+
+<img width="3840" height="2160" alt="Captura de pantalla (102)" src="https://github.com/user-attachments/assets/a0c85479-91e1-42f1-98e8-97679b10a5ac" />
+*Figura 1.La imagen muestra el diseño del algoritmo representado en pseudocódigo utilizando PSeInt
+
+## Pruebas de Escritorio
 
 Una prueba de escritorio es una técnica utilizada para verificar que un algoritmo o programa funciona correctamente antes de ejecutarlo en una computadora.
 
-# 🧾 Pruebas de Escritorio — Distribución del Presupuesto (Valores Bajos)
+# 🧾 Pruebas de Escritorio — Primer problema
 
 | Prueba | Presupuesto (`pago`) | Cálculo Ginecología (`sueldoG`) | Cálculo Traumatología (`sueldoT`) | Cálculo Pediatría (`sueldoP`) | Resultado Esperado |
 |--------|---------------------|---------------------------------|----------------------------------|--------------------------------|------------------|
 | 1      | 1000                | 1000 * 40 / 100 = 400           | 1000 * 30 / 100 = 300            | 1000 * 30 / 100 = 300          | G: 400, T: 300, P: 300 |
 | 2      | 500                 | 500 * 40 / 100 = 200            | 500 * 30 / 100 = 150             | 500 * 30 / 100 = 150           | G: 200, T: 150, P: 150 |
 | 3      | 750                 | 750 * 40 / 100 = 300            | 750 * 30 / 100 = 225             | 750 * 30 / 100 = 225           | G: 300, T: 225, P: 225 |
-
-
-
-## Primer ejercicio implementado en Pseint
-
-
-
-<img width="3840" height="2160" alt="Captura de pantalla (102)" src="https://github.com/user-attachments/assets/a0c85479-91e1-42f1-98e8-97679b10a5ac" />
-*Figura 1.La imagen muestra el diseño del algoritmo representado en pseudocódigo utilizando PSeInt
 
 ## Ejecución de pseudocódigo de Prueba de Escritorio.
 
@@ -216,19 +175,14 @@ Una prueba de escritorio es una técnica utilizada para verificar que un algorit
 
 *Figura 4.Resultado de la ejecución del tercer ejemplo de prueba de escritorio.
 
-## ⚙️ Pseudocódigo segundo ejercicio
+## ⚙️ Problema número dos
 
 
-# 📏 Programa: Conversión de Metros
-
-Realice un programa que, tomando una cantidad expresada en **metros**, la transforme a su equivalente en:
-
-- **Kilómetros (km)**  
-- **Centímetros (cm)**  
-- **Milímetros (mm)**
+# 📏 Conversión de Metros
+Realice un programa que, tomando una cantidad expresada en **metros**, la transforme a su equivalente en: **Kilómetros (km)**, **Centímetros (cm)**, **Milímetros (mm)**.
 
 
-## 🧠 Análisis Resumido: Entradas, Proceso y Salidas
+## 🧠 Análisis 
 
 ### 📥 Entradas
 Datos proporcionados por el usuario para que el algoritmo realice los cálculos.  
@@ -244,53 +198,20 @@ Operaciones que transforman la entrada en los resultados solicitados.
 
 ### Salida
 Son los resultados esperados en este caso: Km, CM, Mm.
-```
-| 🧩 **Etapa**                    | 💻 **Pseudocódigo (PSeInt)**                                                                                                                                    |
-| ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **🔹 Inicio** | ```pseudocode
-``` |
-| **📦 Declaración de Variables** | ```pseudocode
-// Variables  
-Definir sueldoG, sueldoT, sueldoP, pago Como Real;
-``` |
-| **📥 Datos de Entrada** | ```pseudocode
-// Datos de entrada  
-Escribir "Por favor ingrese el presupuesto total"  
-Leer pago;
-``` |
-| **⚙️ Proceso (Cálculos)** | ```pseudocode
-// Proceso  
-sueldoG = (pago * 40) / 100  
-sueldoT = (pago * 30) / 100  
-sueldoP = (pago * 30) / 100
-``` |
-| **📤 Salida de Datos** | ```pseudocode
-// Salida  
-Escribir "El sueldo que debe recibir cada área es de: ", sueldoG, " ", sueldoT, " ", sueldoP, " 
-``` |
-| **🏁 Fin del Algoritmo** | ```pseudocode
-FinAlgoritmo
-``` |
-```
----
 
 
-# 🧾 Prueba de Escritorio — Conversión de Metros
+## 📸 Pseudocódigo en Pseint
+
+<img width="3183" height="1474" alt="Captura de pantalla (75)" src="https://github.com/user-attachments/assets/8827687c-8f97-42d5-827a-25cf3d1a89de" />
+*Figura 5.La imagen muestra el diseño del algoritmo representado en pseudocódigo utilizando PSeInt.
+
+# 🧾 Prueba de Escritorio - Segundo problema
 
 | Prueba | Metros (`numero`) | Cálculo Kilómetros (`km`) | Cálculo Centímetros (`cm`) | Cálculo Milímetros (`mm`) | Resultado Esperado |
 |--------|-----------------|---------------------------|----------------------------|---------------------------|------------------|
 | 1      | 100             | 100 / 1000 = 0.1         | 100 * 100 = 10000          | 100 * 1000 = 100000       | km: 0.1, cm: 10000, mm: 100000 |
 | 2      | 200             | 200 / 1000 = 0.2         | 200 * 100 = 20000          | 200 * 1000 = 200000       | km: 0.2, cm: 20000, mm: 200000 |
 | 3      | 150             | 150 / 1000 = 0.15        | 150 * 100 = 15000          | 150 * 1000 = 150000       | km: 0.15, cm: 15000, mm: 150000 |
-
-
-
-## 📸 Pseudocódigo en Pseint
-
-
-
-<img width="3183" height="1474" alt="Captura de pantalla (75)" src="https://github.com/user-attachments/assets/8827687c-8f97-42d5-827a-25cf3d1a89de" />
-*Figura 5.La imagen muestra el diseño del algoritmo representado en pseudocódigo utilizando PSeInt.
 
 ## Ejecución de pseudocódigo de los ejercicios de Prueba de Escritorio.
 
@@ -325,9 +246,7 @@ Se aplica la misma metodología que en el pseudocódigo, con la diferencia de qu
 
 Este enfoque facilita la comprensión visual del algoritmo y permite identificar rápidamente el tipo de operación que se realiza en cada paso.
 
-📊 Ejemplo de Diagrama de Flujo:
-
-
+📊 Ejemplo de estructura de un Diagrama de Flujo:
 
 <img width="500" height="2039" alt="Captura de pantalla (76)" src="https://github.com/user-attachments/assets/fbe333c4-baf5-4185-9eee-af01f9202c12" />
 *Figura 9.En la presente imagen se muestra como esta estructurado un Diagrama de flujo.
