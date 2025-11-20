@@ -8,7 +8,7 @@ Finalmente, me llevo las palabras de la docente: hacer las cosas con excelencia 
 
 
 <p align="center">
-  <a href="08 Tareas entregadas.md"><button>⬅️ Anterior</button></a>
+  <a href="4%20%20 CONCLUSIONES.md"><button>⬅️ Anterior</button></a>
   <a href="index.md"><button>🏠 Índice</button></a>
   <a href="5 USO DE LA IA.md"><button>➡️ Siguiente</button></a>
 </p>
