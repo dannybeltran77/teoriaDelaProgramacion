@@ -127,5 +127,5 @@ Para **ejecutar el programa**, escribimos el siguiente comando en la terminal:
 <p align="center">
   <a href="04 Programación por Bloques.md">⬅️ Anterior</a> |
   <a href="index.md">🏠 Índice</a> |
-  <a href="06 Programa en C con Estructuras Secuenciales.md">➡️ Siguiente</a>
+  <a href="06 Principales dificultades.md">➡️ Siguiente</a>
 </p>
