@@ -1,37 +1,6 @@
 [🏠 Volver al inicio](index.md)
 
-# 🔢 Ejemplos de Algoritmos con Estructuras Lineales/Secuenciales
-
-
-
-## 📝 Problema
-
-Realice un programa que, tomando una cantidad expresada en **metros**, la transforme a su equivalente en:
-
-- **Kilómetros (km)**  
-- **Centímetros (cm)**  
-- **Milímetros (mm)**
-
-
-
-## 🔍 Análisis
-
-En el presente problema se pide determinar los valores en **km, cm y mm** dada cierta cantidad en metros.  
-
-**Datos de entrada:**  
-- Valor ingresado por el usuario como variable: `numero`
-
-**Proceso:**  
-Realizaremos una **regla de tres** para cada parámetro solicitado:
-
-- `km = (1 * numero) / 1000`  
-- `cm = (numero * 100) / 1`  
-- `mm = (numero * 1000) / 1`
-
-**Datos de salida:**  
-- Resultados deseados: `km`, `cm` y `mm`
-
-# 🧩 Etapas del Proceso de Programación
+# 🔢 Problema número uno implementado en lengiaje C
 
 ## ⚙️ Compilación
 La **compilación** consiste en traducir el *código fuente* a un lenguaje que la computadora pueda comprender.  
@@ -47,7 +16,7 @@ En este punto, la computadora **interpreta y ejecuta las instrucciones** del pro
 
 > 💡 **Nota:** Ambas etapas son esenciales en el desarrollo de software, ya que garantizan que el código sea correcto y funcional antes de su uso final.
 
-# 🧾 Prueba de Escritorio — Conversión de Metros
+# 🧾 Pruebas de Escritorio 
 
 | Prueba | Metros (`numero`) | Cálculo Kilómetros (`km`) | Cálculo Centímetros (`cm`) | Cálculo Milímetros (`mm`) | Resultado Esperado |
 |--------|-----------------|---------------------------|----------------------------|---------------------------|------------------|
@@ -98,41 +67,9 @@ Para **ejecutar el programa**, escribimos el siguiente comando en la terminal:
 
 *Figura 18.Resultados de los tres casos de Prueba de Escritorio trasladados a Studio Version.
 
-# 🏥 Problema 2: Distribución del Presupuesto en un Hospital
+# 🏥 Problema número dos implementado en lenguaje C
 
-
-## 📝 Problema
-
-En un hospital existen tres áreas: **Ginecología**, **Pediatría** y **Traumatología**.  
-El presupuesto anual del hospital se reparte conforme a la siguiente tabla:
-
-- **Ginecología:** 40%  
-- **Traumatología:** 30%  
-- **Pediatría:** 30%  
-
-**Objetivo:** Obtener la cantidad de dinero que recibirá cada área para cualquier monto presupuestal.
-
-
-## 🔍 Análisis
-
-En este problema debemos determinar el **porcentaje en dólares** que recibe cada área de trabajo dado cierto presupuesto.
-
-**Datos de entrada:**  
-- Presupuesto ingresado por el usuario: `presupuesto`
-
-**Proceso:**  
-Se realiza una **regla de tres** para cada área:
-
-- `sueldoG = (presupuesto * 40) / 100`  
-- `sueldoT = (presupuesto * 30) / 100`  
-- `sueldoP = (presupuesto * 30) / 100`
-
-**Datos de salida:**  
-- Cantidad de dinero que recibe cada área: `sueldoG`, `sueldoT` y `sueldoP`
-
-
-
-## 🧾 Pruebas de Escritorio — Distribución del Presupuesto (Valores Bajos)
+## 🧾 Pruebas de Escritorio — Distribución del Presupuesto
 
 | Prueba | Presupuesto (`pago`) | Cálculo Ginecología (`sueldoG`) | Cálculo Traumatología (`sueldoT`) | Cálculo Pediatría (`sueldoP`) | Resultado Esperado |
 |--------|---------------------|---------------------------------|----------------------------------|--------------------------------|------------------|
