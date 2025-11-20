@@ -19,17 +19,7 @@
 
 
 <p align="center">
-
-  <a href="07 Reflexión crítica.md">
-    <img src="https://img.shields.io/badge/⬅️_Anterior-green?style=for-the-badge">
-  </a>
-
-  <a href="index.md">
-    <img src="https://img.shields.io/badge/🏠_Índice-blue?style=for-the-badge">
-  </a>
-
-  <a href="4%20%20 CONCLUSIONES.md">
-    <img src="https://img.shields.io/badge/➡️_Siguiente-orange?style=for-the-badge">
-  </a>
-
+  <a href="07 Reflexión crítica.md"><button>⬅️ Anterior</button></a>
+  <a href="index.md"><button>🏠 Índice</button></a>
+  <a href="4%20%20 CONCLUSIONES.md"><button>➡️ Siguiente</button></a>
 </p>
