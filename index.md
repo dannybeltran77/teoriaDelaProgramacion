@@ -15,14 +15,14 @@
 📂[Tareas entregadas](./09%20Tareas%20entregadas.md)  
 
 ---
-## UNIDAD 2
+### UNIDAD 2
 ---
-## UNIDAD 3
+### UNIDAD 3
 ---
-## CONCLUSIONES
+### CONCLUSIONES
 [Ver Conclusiones](https://github.com/dannybeltran77/teoriaDelaProgramacion/blob/main/4%20%20%20CONCLUSIONES.md)
 ---
-## USO DE LA IA
+### USO DE LA IA
 [Ver Bibliografía](https://github.com/dannybeltran77/teoriaDelaProgramacion/blob/main/5%20USO%20DE%20LA%20IA.md)
 ---
 
