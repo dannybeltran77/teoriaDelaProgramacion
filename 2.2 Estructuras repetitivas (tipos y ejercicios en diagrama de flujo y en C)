@@ -1,1 +1,47 @@
+## 🔸 Ciclo mientras (while)
+
+> while es una estructura de programación que ejecuta un bloque de código repetidamente mientras se cumpla una condición.
+
+### Sintaxis
+
+```c
+while (condición) {
+    // código que se repite mientras la condición sea verdadera
+}
+
+```
+
+### 💻 Ejemplo
+
+Escribe un programa que pida al usuario números enteros y los sume.
+El programa debe continuar pidiendo números hasta que el usuario ingrese 0, momento en el que se mostrará la suma total de los números ingresados.
+
+
+### Código implementado en C
+
+```c
+#include <stdio.h>
+
+int main() {
+    int numero, suma = 0;
+
+    printf("Ingresa un numero (0 para terminar): ");
+    scanf("%d", &numero);
+
+    while (numero != 0) {
+        suma += numero;
+        printf("Ingresa otro numero (0 para terminar): ");
+        scanf("%d", &numero);
+    }
+
+    printf("La suma total es: %d\n", suma);
+
+    return 0;
+}
+```
+
+### Compilación y ejecución del programa en C
+
+
+
 
