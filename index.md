@@ -16,17 +16,18 @@
 
 ---
 ### UNIDAD 2
-[Estructuras condicionales (tipos y ejercicios en diagrama de flujo y en C)](./2.1%20Estructuras%20condicionales%20(tipos%20y%20ejercicios%20en%20diagrama%20de%20flujo%20y%20en%20C).md)
 
-[Estructuras repetitivas (tipos y ejercicios en diagrama de flujo y en C)](./2.2%20Estructuras%20repetitivas%20(tipos%20y%20ejercicios%20en%20diagrama%20de%20flujo%20y%20en%20C).md)
+[📝 Estructuras condicionales (tipos y ejercicios en diagrama de flujo y en C)](./2.1%20Estructuras%20condicionales%20(tipos%20y%20ejercicios%20en%20diagrama%20de%20flujo%20y%20en%20C).md)
 
-[Ejercicio combinando estructura condicional y repetitiva (Java o Python)](./2.3%20Ejercicio%20combinando%20estructura%20condicional%20y%20repetitiva%20(Java%20o%20Python).md)
+[🔁 Estructuras repetitivas (tipos y ejercicios en diagrama de flujo y en C)](./2.2%20Estructuras%20repetitivas%20(tipos%20y%20ejercicios%20en%20diagrama%20de%20flujo%20y%20en%20C).md)
 
-[Principales dificultades en la aplicación de los contenidos](./2.4%20Principales%20dificultades%20en%20la%20aplicación%20de%20los%20contenidos.md)
+[⚡ Ejercicio combinando estructura condicional y repetitiva (Java o Python)](./2.3%20Ejercicio%20combinando%20estructura%20condicional%20y%20repetitiva%20(Java%20o%20Python).md)
 
-[Reflexión crítica de los aprendizajes de la unidad](./2.5%20Reflexión%20crítica%20de%20los%20aprendizajes%20de%20la%20unidad.md)
+[❗ Principales dificultades en la aplicación de los contenidos](./2.4%20Principales%20dificultades%20en%20la%20aplicación%20de%20los%20contenidos.md)
 
-[Tareas entregadas](./2.6%20Tareas%20entregadas.md)
+[💡 Reflexión crítica de los aprendizajes de la unidad](./2.5%20Reflexión%20crítica%20de%20los%20aprendizajes%20de%20la%20unidad.md)
+
+[📬 Tareas entregadas](./2.6%20Tareas%20entregadas.md)
 
 
 
