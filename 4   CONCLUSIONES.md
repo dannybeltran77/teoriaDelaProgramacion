@@ -8,7 +8,7 @@ Finalmente, me llevo las palabras de la docente: hacer las cosas con excelencia 
 
 
 <p align="center">
-  [⬅️ Página anterior](./2.6%20Tareas%20entregadas.md)
+  <a href="2.6 Tareas entregadas.md"><button>⬅️ Anterior</button></a>
   <a href="index.md"><button>🏠 Índice</button></a>
   <a href="5 USO DE LA IA.md"><button>➡️ Siguiente</button></a>
 </p>
