@@ -18,6 +18,11 @@ Durante la elaboración de este trabajo, se utilizó **ChatGPT**, un modelo de i
 > Este procedimiento contribuye a la elaboración de un documento más claro, estructurado y profesional,  
 > sin que la inteligencia artificial sustituya el trabajo intelectual, creativo ni académico del autor.
 
+**Referencias**
+
+[1] P. A. Sznajdleder, *Curso de algoritmos y programación a fondo: implementaciones en C++*, 1ª ed. Barcelona, España: MARCOMBO / Alfaomega, 2021.
+
+[2] E. Matthes, *Curso intensivo de Python*, 3ª ed. Pearson / Anaya, 2024.
 
 
 
