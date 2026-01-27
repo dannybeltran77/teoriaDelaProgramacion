@@ -24,6 +24,23 @@ Durante la elaboración de este trabajo, se utilizó **ChatGPT**, un modelo de i
 
 [2] E. Matthes, *Curso intensivo de Python*, 3ª ed. Pearson / Anaya, 2024.
 
+## 📚 Bibliografía en Formato IEEE (libros recientes y actualizados)
+
+[3] M. Bancila, *Modern C++ Programming Cookbook*, 2nd ed., Packt Publishing, 2020. :contentReference[oaicite:0]{index=0}
+
+[4] M. Bancila, *Modern C++ Programming Cookbook*, 3rd ed., Packt Publishing, 2024. :contentReference[oaicite:1]{index=1}
+
+[5] F. Buontempo, *Learn C++ by Example*, Manning Publications, 2024. :contentReference[oaicite:2]{index=2}
+
+[6] R. Yonts, *100 C++ Mistakes and How to Avoid Them*, Manning Publications, 2025. :contentReference[oaicite:3]{index=3}
+
+[7] R. Mak, *Object-Oriented Software Design in C++*, Manning Publications, 2024. :contentReference[oaicite:4]{index=4}
+
+[8] A. Arya, *Anyone Can Code: Algorithmic Thinking*, 2023. :contentReference[oaicite:5]{index=5}
+
+[8] M. Blondel and V. Roulet, *The Elements of Differentiable Programming*, 2024. :contentReference[oaicite:6]{index=6}
+
+
 
 
 <p align="center">
