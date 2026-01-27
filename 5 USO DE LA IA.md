@@ -17,14 +17,16 @@ Durante la elaboración de este trabajo, se utilizó **ChatGPT**, un modelo de i
 
 > Este procedimiento contribuye a la elaboración de un documento más claro, estructurado y profesional,  
 > sin que la inteligencia artificial sustituya el trabajo intelectual, creativo ni académico del autor.
+## Bibliografía
+
+- OpenAI. *ChatGPT (GPT-5 Mini)*. Asistencia en la redacción, corrección de estilo y mejora de la claridad de textos.
+
 
 **Referencias**
 
 [1] P. A. Sznajdleder, *Curso de algoritmos y programación a fondo: implementaciones en C++*, 1ª ed. Barcelona, España: MARCOMBO / Alfaomega, 2021.
 
 [2] E. Matthes, *Curso intensivo de Python*, 3ª ed. Pearson / Anaya, 2024.
-
-## 📚 Bibliografía en Formato IEEE (libros recientes y actualizados)
 
 [3] M. Bancila, *Modern C++ Programming Cookbook*, 2nd ed., Packt Publishing, 2020. :contentReference[oaicite:0]{index=0}
 
