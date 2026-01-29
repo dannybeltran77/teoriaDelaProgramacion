@@ -18,9 +18,9 @@ Durante la elaboración de este trabajo, se utilizó **ChatGPT**, un modelo de i
 > Este procedimiento contribuye a la elaboración de un documento más claro, estructurado y profesional,  
 > sin que la inteligencia artificial sustituya el trabajo intelectual, creativo ni académico del autor.
 
-Segunda y tercera unidad
+--- 
 
-Uso de Inteligencia Artificial y Referencias Bibliográficas
+Uso de Inteligencia Artificial y Referencias Bibliográficas para la Segunda y Tercera unidad
 
 - OpenAI. *ChatGPT (GPT-5 Mini)*. Asistencia en la redacción, corrección de estilo y mejora de la claridad de textos.
 
