@@ -37,12 +37,29 @@
 [📬 Tareas entregadas](./2.6%20Tareas%20entregadas.md)
 
 
-
-
+---
 ### UNIDAD 3
+
+📘 [3.1 Modularidad](3.1%20Modularida.md)  
+
+🧮 [3.2 Arreglos](3.2%20Arreglos.md)  
+
+⚠️ [3.3 Principales dificultades](3.3%20Principales%20dificultades.md)  
+
+📝 [3.4 Reflexión crítica](3.4%20Reflexión%20crítica.md)  
+
+✅ [3.4 Tareas entregadas](3.4%20Tareas%20entregadas.md)  
+
+🏁 [4 CONCLUSIONES](4%20CONCLUSIONES.md)  
+
+🤖 [5 USO DE LA IA](5%20USO%20DE%20LA%20IA.md)
+
 ---
 ### CONCLUSIONES
 [Ver Conclusiones](https://github.com/dannybeltran77/teoriaDelaProgramacion/blob/main/4%20%20%20CONCLUSIONES.md)
+
+[Conclusiones generales](4.1%20Conclusiones%20generales.md)  
+
 ---
 ### USO DE LA IA Y REFERENCIAS
 [Ver Bibliografía](https://github.com/dannybeltran77/teoriaDelaProgramacion/blob/main/5%20USO%20DE%20LA%20IA.md)
