@@ -40,17 +40,17 @@
 ---
 ### UNIDAD 3
 
-📘 [3.1 Modularidad](3.1%20Modularida.md)  
+📘 [Modularidad](3.1%20Modularida.md)  
 
-🧮 [3.2 Arreglos](3.2%20Arreglos.md)  
+🧮 [Arreglos](3.2%20Arreglos.md)  
 
-⚠️ [3.3 Principales dificultades](3.3%20Principales%20dificultades.md)  
+⚠️ [Principales dificultades](3.3%20Principales%20dificultades.md)  
 
-📝 [3.4 Reflexión crítica](3.4%20Reflexión%20crítica.md)  
+📝 [Reflexión crítica](3.4%20Reflexión%20crítica.md)  
 
-✅ [3.4 Tareas entregadas](3.4%20Tareas%20entregadas.md)  
+✅ [Tareas entregadas](3.4%20Tareas%20entregadas.md)  
 
-🏁 [4 CONCLUSIONES](4%20CONCLUSIONES.md)  
+🏁 [CONCLUSIONES](4%20CONCLUSIONES.md)  
 
 ---
 ### CONCLUSIONES
