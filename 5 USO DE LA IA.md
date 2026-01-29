@@ -46,9 +46,7 @@ Uso de Inteligencia Artificial y Referencias Bibliográficas para la Segunda y T
 [8] M. Blondel and V. Roulet, *The Elements of Differentiable Programming*, 2024. :contentReference[oaicite:6]{index=6}
 
 
-
-
 <p align="center">
-  <a href="4%20%20 CONCLUSIONES.md"><button>⬅️ Anterior</button></a>
-  <a href="index.md"><button>🏠 Índice</button></a>
-</p>
+  <a href="4.1%20Conclusiones%20Generales.md">⬅️ Anterior</a> |
+  <a href="index.md">📂 Ir al Índice</a> |
+ 
