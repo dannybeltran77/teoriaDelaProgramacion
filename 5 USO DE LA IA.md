@@ -1,4 +1,4 @@
-# 🧠 Uso de Inteligencia Artificial en la Elaboración del Documento
+# 🧠 Uso de Inteligencia Artificial y Referencias Bibliográficas
 
 Durante la elaboración de este trabajo, se utilizó **ChatGPT**, un modelo de inteligencia artificial desarrollado por **OpenAI**, con el propósito de:
 
@@ -18,6 +18,9 @@ Durante la elaboración de este trabajo, se utilizó **ChatGPT**, un modelo de i
 > Este procedimiento contribuye a la elaboración de un documento más claro, estructurado y profesional,  
 > sin que la inteligencia artificial sustituya el trabajo intelectual, creativo ni académico del autor.
 
+Segunda y tercera unidad
+
+Uso de Inteligencia Artificial y Referencias Bibliográficas
 
 - OpenAI. *ChatGPT (GPT-5 Mini)*. Asistencia en la redacción, corrección de estilo y mejora de la claridad de textos.
 
