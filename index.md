@@ -54,7 +54,6 @@
 
 ---
 ### CONCLUSIONES
-[Ver Conclusiones](https://github.com/dannybeltran77/teoriaDelaProgramacion/blob/main/4%20%20%20CONCLUSIONES.md)
 
 [Conclusiones Generales](4.1%20Conclusiones%20Generales.md)
 
