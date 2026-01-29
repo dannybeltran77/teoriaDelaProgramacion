@@ -52,17 +52,16 @@
 
 🏁 [4 CONCLUSIONES](4%20CONCLUSIONES.md)  
 
-🤖 [5 USO DE LA IA](5%20USO%20DE%20LA%20IA.md)
-
 ---
 ### CONCLUSIONES
 [Ver Conclusiones](https://github.com/dannybeltran77/teoriaDelaProgramacion/blob/main/4%20%20%20CONCLUSIONES.md)
 
-[Conclusiones generales](4.1%20Conclusiones%20generales.md)  
+[Conclusiones Generales](4.1%20Conclusiones%20Generales.md)
+
 
 ---
 ### USO DE LA IA Y REFERENCIAS
-[Ver Bibliografía](https://github.com/dannybeltran77/teoriaDelaProgramacion/blob/main/5%20USO%20DE%20LA%20IA.md)
+[Ver Uso de la IA y Bibliografías](https://github.com/dannybeltran77/teoriaDelaProgramacion/blob/main/5%20USO%20DE%20LA%20IA.md)
 ---
 
 
